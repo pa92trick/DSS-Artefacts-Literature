@@ -1,0 +1,2313 @@
+TY  - CONF
+TI  - A Design Science Approach for Consultant Selection Decision Support System
+AU  - M. F. Omar
+AU  - B. Trigunarsyah
+AU  - J. Wong
+T2  - 2009 Fourth International Conference on Cooperation and Promotion of Information Resources in Science and Technology
+AB  - In the past decades, information system (IS) has been applied in wide and diverse management area. Construction management problem is considered a new and promising area for IS researchers to contribute. Scholars in IS discipline have divided research in two distinct paradigm i.e. behavioural and design science. This paper presented a design science research methodology (DSRM) for DSS development. The research aims to create an innovative IT artefact to support the decision making for consultant selection problem (CSP). To address the research objectives, three case studies at Malaysian Department of Irrigation and Drainage (DID) are planned to be conducted and integrated in the DSRM framework. It is expected that this research will contribute to the improvement of organizational decision making process for consultant selection involving irrigation and drainage projects.
+C3  - 2009 Fourth International Conference on Cooperation and Promotion of Information Resources in Science and Technology
+DA  - 2009/11/21/23
+PY  - 2009
+DO  - 10.1109/COINFO.2009.73
+SP  - 90
+EP  - 94
+KW  - Australia
+KW  - Humans
+KW  - Project management
+KW  - Design methodology
+KW  - Decision making
+KW  - Management information systems
+KW  - Decision support systems
+KW  - Information resources
+KW  - decision support systems
+KW  - decision making
+KW  - information systems
+KW  - project management
+KW  - Irrigation
+KW  - information system
+KW  - DSS development
+KW  - Decision Support System
+KW  - design science research methodology
+KW  - Design Science Research Methodology
+KW  - DSRM
+KW  - Behavioral science
+KW  - construction management problem
+KW  - Consultant Selection
+KW  - consultant selection decision support system
+KW  - design science approach
+KW  - drainage projects
+KW  - Malaysian Department of Irrigation and Drainage
+KW  - organizational decision making process
+ER  - 
+
+TY  - CONF
+TI  - Offshore Wind Energy in Emerging Countries: A Decision Support System for the Assessment of Projects
+AU  - A. Koukal
+AU  - M. H. Breitner
+T2  - 2014 47th Hawaii International Conference on System Sciences
+AB  - Energy consumption is constantly on the increase all over the world. Especially fast-growing economies in emerging countries contribute to this increase. In addition, the climate change effects of greenhouse gas emissions are becoming more and more evident. Today it has become necessary to expand renewable energies, and offshore wind energy in particular to emerging countries. We provide decision support for assessing projects and general financial conditions, respectively. To that end, research artifacts are constructed and evaluated according to the design science research (DSR) principles. A discounted cash flow (DCF) model in combination with a Monte Carlo simulation (MCS) to consider critical project risks forms the basis of our decision support system (DSS). The applicability of the DSS is evaluated with an offshore wind project in Brazil. According to Green information systems (IS), our DSS contributes to economic sustainability.
+C3  - 2014 47th Hawaii International Conference on System Sciences
+DA  - 2014/01/06/9
+PY  - 2014
+DO  - 10.1109/HICSS.2014.115
+SP  - 865
+EP  - 874
+SN  - 1530-1605
+KW  - Mathematical model
+KW  - Decision support systems
+KW  - Economics
+KW  - decision support systems
+KW  - information systems
+KW  - Wind energy
+KW  - Monte Carlo methods
+KW  - Monte Carlo simulation
+KW  - economics
+KW  - DSS
+KW  - Green products
+KW  - Investment
+KW  - Finance
+KW  - Design Science
+KW  - energy consumption
+KW  - financial management
+KW  - wind power plants
+KW  - renewable energy sources
+KW  - DCF model
+KW  - decision support system
+KW  - design science research principles
+KW  - Discounted Cash Flow
+KW  - discounted cash flow model
+KW  - DSR principles
+KW  - economic sustainability
+KW  - financial conditions
+KW  - green information systems
+KW  - greenhouse gas emissions
+KW  - MCS
+KW  - Monte Carlo Simulation
+KW  - offshore installations
+KW  - offshore wind energy
+KW  - Offshore Wind Energy
+ER  - 
+
+TY  - CONF
+TI  - The Design Functions of a Knowledge-Based Decision Support System in B2C E-commerce Problem Domain
+AU  - M. Khatun
+AU  - S. Miah
+T2  - 2017 4th Asia-Pacific World Congress on Computer Science and Engineering (APWC on CSE)
+AB  - Managers of small businesses require real-time and inclusive knowledge for employing the small business website for operating business-to-consumers (B2C) e-commerce environment. The main dedication of this paper is to develop a knowledge-based DSS (KB-DSS) solution for assisting in designing and keep operating their business websites. The KB-DSS is a well-recognised DSS class in the information system (IS) discipline, which can deal with developing innovative IS artefact. Various studies have been conducted on improving theory and practices within this field. We developed the KB-DSS for website features evaluation, adopting design-science research (DSR) method. The artefact was evaluated for its utility and usefulness through end-user involvements employing focus group technique.
+C3  - 2017 4th Asia-Pacific World Congress on Computer Science and Engineering (APWC on CSE)
+DA  - 2017/12/11/13
+PY  - 2017
+DO  - 10.1109/APWConCSE.2017.00015
+SP  - 33
+EP  - 40
+KW  - Decision making
+KW  - Decision support systems
+KW  - decision support systems
+KW  - Knowledge based systems
+KW  - Prototypes
+KW  - information systems
+KW  - Databases
+KW  - information system
+KW  - Web sites
+KW  - electronic commerce
+KW  - knowledge based systems
+KW  - -decision-support-systems
+KW  - -design-science-research
+KW  - -knowledge-base
+KW  - -strategic-decision
+KW  - B2C e-commerce problem domain
+KW  - B2C-e-commerce
+KW  - business website
+KW  - business-to-consumers
+KW  - design functions
+KW  - design-science research method
+KW  - DSS class
+KW  - e-commerce environment
+KW  - IS artefact
+KW  - KB-DSS
+KW  - knowledge-based decision support system
+KW  - knowledge-based DSS solution
+KW  - Structured Query Language
+KW  - Website features evaluation
+ER  - 
+
+TY  - CONF
+TI  - Decision Support System for the Sustainability Assessment of Critical Raw Materials in SMEs
+AU  - S. Bensch
+AU  - C. Kolotzek
+AU  - C. Helbig
+AU  - A. Thorenz
+AU  - A. Tuma
+T2  - 2015 48th Hawaii International Conference on System Sciences
+AB  - Technology-oriented Small and Medium-sized Enterprises (SMEs) face the problem of shortage of crucial resources, as functional components may contain up to 40 elements. Therefore, the assessment of alternative raw materials is of growing importance for the discipline of strategic product design and procurement processes as a topic of Information Systems (IS) research. Aspects of sustainability consider both ecological and economic objectives. Methods to assess companies' sustainability regarding its raw material consumption are an essential precondition for resource efficiency. This work at hand develops a conceptual decision and IS integration model for the assessment of products based on their raw material composition and implements this model as a software prototype, following a design-science approach. Its application is demonstrated in a real case scenario. The application's results show the comprehensibility and transparency in evaluating products' sustainability and enables companies to compare different alternative products, from both an ecological and economic point of view.
+C3  - 2015 48th Hawaii International Conference on System Sciences
+DA  - 2015/01/05/8
+PY  - 2015
+DO  - 10.1109/HICSS.2015.107
+SP  - 846
+EP  - 855
+SN  - 1530-1605
+KW  - sustainable development
+KW  - Sustainability
+KW  - Information systems
+KW  - Decision support systems
+KW  - Economics
+KW  - decision support systems
+KW  - Electromagnetic interference
+KW  - information systems
+KW  - SME
+KW  - Biological system modeling
+KW  - Companies
+KW  - Raw materials
+KW  - design science approach
+KW  - small-to-medium enterprises
+KW  - IS research
+KW  - software prototype
+KW  - decision support system
+KW  - comprehensibility
+KW  - conceptual decision
+KW  - critical raw materials
+KW  - Criticality Assessment
+KW  - Decision Model Design
+KW  - economic point of view
+KW  - EMIS Concept
+KW  - IS integration model
+KW  - procurement
+KW  - procurement processes
+KW  - products sustainability
+KW  - raw material composition
+KW  - raw material consumption
+KW  - raw materials
+KW  - resource efficiency
+KW  - strategic product design
+KW  - sustainability assessment
+KW  - technology-oriented small and medium-sized enterprises
+ER  - 
+
+TY  - CONF
+TI  - Encouraging the Mindful Consideration of Enterprise 2.0: Design and Deployment of a GDSS-Supported Collaborative Strategic Episode
+AU  - S. De Hertogh
+AU  - S. Viaene
+T2  - 2012 45th Hawaii International Conference on System Sciences
+AB  - The deployment of social media inside and across enterprises, i.e. 'enterprise 2.0', has garnered significant attention, not least due to considerable levels of market push and hype from technology vendors, benchmarking institutions and consultancy firms. However, for some organizations, encouraging open and uninhibited knowledge exchanges may actually clash with past habits of relying on designed and structured strategies to manage communication. This paper has two objectives: first, to propose a set of management challenges inherent to the deployment of enterprise 2.0, and second, to incorporate these challenges into a collaborative management workshop process and group decision support system (GDSS) that encourages organizations' leadership teams to consider those challenges mindfully and collaboratively - before jumping on the enterprise 2.0 'bandwagon'. The paper follows Hevner's cycles of design science. For the system's design, we draw on theories of episodic change of general systems theorist, Luhmann and work by Churchman on inquiry systems.
+C3  - 2012 45th Hawaii International Conference on System Sciences
+DA  - 2012/01/04/7
+PY  - 2012
+DO  - 10.1109/HICSS.2012.243
+SP  - 3858
+EP  - 3868
+SN  - 1530-1605
+KW  - Lead
+KW  - management
+KW  - Collaboration
+KW  - social media
+KW  - decision support systems
+KW  - design science
+KW  - Internet
+KW  - Organizations
+KW  - Investments
+KW  - groupware
+KW  - GDSS
+KW  - Technological innovation
+KW  - organisational aspects
+KW  - web 2.0
+KW  - Standards organizations
+KW  - benchmarking institutions
+KW  - Churchman
+KW  - collaborative management workshop process
+KW  - consultancy firms
+KW  - enterprise 2.0
+KW  - enterprise resource planning
+KW  - GDSS supported collaborative strategic episode
+KW  - group decision support system
+KW  - Hevner
+KW  - Hevner cycles
+KW  - inquiry systems
+KW  - Luhmann
+KW  - market hype
+KW  - market push
+KW  - organization leadership teams
+KW  - social software
+KW  - technology vendors
+ER  - 
+
+TY  - CONF
+TI  - Measuring Information Volatility in a Health Care Information Supply Chain
+AU  - Tremblay, Monica Chiarini
+AU  - Berndt, Donald J.
+AU  - Hevner, Alan R.
+T3  - DESRIST '09
+C1  - New York, NY, USA
+C3  - Proceedings of the 4th International Conference on Design Science Research in Information Systems and Technology
+DA  - 2009///
+PY  - 2009
+DO  - 10.1145/1555619.1555621
+SP  - 1:1
+EP  - 1:10
+PB  - ACM
+SN  - 978-1-60558-408-9
+UR  - http://doi.acm.org/10.1145/1555619.1555621
+KW  - decision support systems
+KW  - focus groups
+KW  - business intelligence
+KW  - decision science research
+KW  - information volatility
+KW  - metrics
+ER  - 
+
+TY  - JOUR
+TI  - Design and development of a context-aware decision support system for real-time accident handling in logistics
+AU  - Ngai, E.W.T.
+AU  - Leung, T.K.P.
+AU  - Wong, Y.H.
+AU  - Lee, M.C.M.
+AU  - Chai, P.Y.F.
+AU  - Choi, Y.S.
+T2  - 1)Decision Support Systems for Logistics and Supply Chain Management 2)Business Intelligence and the Web
+AB  - This paper describes the design and development of a context-aware fleet management system (CFMS) prototype for real-time accident handling in logistics using a design science approach. One of the most important decisions in fleet management is the optimization of vehicle scheduling during an accident, such as a vehicle breakdown and mechanical failure during delivery. The schedule planner has to assign another vehicle to take over the task; thus, accident handling needs the reassignment or re-scheduling of vehicles. The large number of available vehicles for reassignment and numerous trips in a day make rescheduling complicated and difficult to resolve. In this paper, we propose a CFMS integrated with global positioning system (GPS) for real-time vehicle positioning and eSeal enabled by the RFID technology, to help human planners with rescheduling. A CFMS prototype was built and evaluated in a real-world setting. The system prototype was satisfactory during evaluation. The system was found to be more effective by its potential users and field logistics experts in aiding real-time accident handling in logistics. The design science approach used to develop the prototype could form a basis for further research.
+DA  - 2012/03/01/
+PY  - 2012
+DO  - 10.1016/j.dss.2011.11.016
+VL  - 52
+IS  - 4
+SP  - 816
+EP  - 827
+J2  - Decision Support Systems
+SN  - 0167-9236
+UR  - http://www.sciencedirect.com/science/article/pii/S0167923611002223
+L2  - https://www.ub.uni-koeln.de/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=article&sid=ProQ:ProQ%3Aabiglobal&atitle=Design+and+development+of+a+context-aware+decision+support+system+for+real-time+accident+handling+in+logistics&title=Decision+Support+Systems&issn=01679236&date=2012-03-01&volume=52&issue=4&spage=816&au=Ngai%2C+EWT%3BLeung%2C+TKP%3BWong%2C+YH%3BLee%2C+MCM%3BChai%2C+PYF%3BChoi%2C+YS&isbn=&jtitle=Decision+Support+Systems&btitle=&rft_id=info:eric/&rft_id=info:doi/
+N1  - <p>Accession Number: 72337493; Ngai, E.W.T.; Email Address: mswtngai@polyu.edu.hk; Leung, T.K.P.; Wong, Y.H.; Lee, M.C.M.; Chai, P.Y.F.; Choi, Y.S.; Issue Info: Mar2012, Vol. 52 Issue 4, p816; Thesaurus Term: Decision support systems; Thesaurus Term: Work-related injuries; Thesaurus Term: Business logistics; Thesaurus Term: Mathematical optimization; Thesaurus Term: Production scheduling; Thesaurus Term: Delivery of goods; Subject Term: Global Positioning System; Subject Term: Discrete systems; Author-Supplied Keyword: Context-aware decision support system; Author-Supplied Keyword: Fleet management system prototype; Author-Supplied Keyword: Real-time accident handling; NAICS/Industry Codes: 541614 Process, Physical Distribution, and Logistics Consulting Services; Number of Pages: 12p; Document Type: Article</p>
+N1  - <p>CODEN - DSSYDK</p>
+N1  - <p>Copyright - Copyright Elsevier Sequoia S.A. Mar 2012</p>
+N1  - <p>Last updated - 2012-02-28</p>
+KW  - Scheduling
+KW  - 5160:Transportation management
+KW  - 9130:Experiment/theoretical treatment
+KW  - Studies
+KW  - Logistics
+KW  - 5240:Software & systems
+KW  - Decision support systems
+KW  - Production scheduling
+KW  - Computers--Automation
+KW  - Global Positioning System
+KW  - Mathematical optimization
+KW  - Business logistics
+KW  - Discrete systems
+KW  - Context-aware decision support system
+KW  - Fleet management system prototype
+KW  - Real-time accident handling
+KW  - Real time
+KW  - Traffic accidents & safety
+KW  - Delivery of goods
+KW  - Work-related injuries
+ER  - 
+
+TY  - JOUR
+TI  - Human-centred design approach applied to Medical Dynamic DSS
+AU  - Ltifi, Hela
+AU  - Kolski, Christophe
+AU  - Ayed, Mounir Ben
+AU  - Alimi, Adel M.
+T2  - 11th IFAC/IFIP/IFORS/IEA Symposium on Analysis, Design, and Evaluation of Human-Machine Systems
+AB  - This paper presents a new human-centred design approach which derived from conceptual design research and through a critical field research study. The proposed approach is applied to a Medical Dynamic Decision Support System (DSS) supporting the hospital Intensive Care Unit physicians’ decisions in order to predict nosocomial infections occurrence. The design approach in question is then validated.
+DA  - 2010/01/01/
+PY  - 2010
+DO  - 10.3182/20100831-4-FR-2021.00082
+VL  - 43
+IS  - 13
+SP  - 465
+EP  - 470
+J2  - IFAC Proceedings Volumes
+SN  - 1474-6670
+UR  - http://www.sciencedirect.com/science/article/pii/S1474667015325775
+KW  - Human-Computer Interaction
+KW  - Medical Dynamic Decision support systems
+KW  - Nosocomial Infections
+ER  - 
+
+TY  - JOUR
+TI  - A new web personalization decision-support artifact for utility-sensitive customer review analysis
+AU  - Flory, Long
+AU  - Osei-Bryson, Kweku-Muata
+AU  - Thomas, Manoj
+T2  - Decision Support Systems
+AB  - In recent years there has been increased consumer use of the vast array of online reviews. Given the increasingly high volume of such reviews, automatic analyses of their quality have become imperative. Not surprisingly, this situation has attracted the interest of researchers. However, prior approaches are insufficient to address the consumers' need for non-burdensome sense making of online reviews. This research attempts to close this gap by proposing novel design science artifacts (i.e. construct, architecture, algorithms and prototype) to address the consumers' need. We evaluate these artifacts using a set of experiments and hypothesis tests. The results validate the effectiveness and efficiency of the proposed artifacts. We demonstrate their practical utility and relevance using real world pilot experiments. This paper contributes theoretical knowledge to the review quality literature and, what we believe is the first exemplifier for adequately validating the solutions of review quality research.
+DA  - 2017/02/01/
+PY  - 2017
+DO  - 10.1016/j.dss.2016.11.003
+VL  - 94
+SP  - 85
+EP  - 96
+J2  - Decision Support Systems
+SN  - 0167-9236
+UR  - http://www.sciencedirect.com/science/article/pii/S0167923616301853
+KW  - Web 2.0
+KW  - Decision support
+KW  - Text mining
+KW  - Online review
+KW  - Review quality
+KW  - Web personalization
+ER  - 
+
+TY  - JOUR
+TI  - Leveraging the capabilities of service-oriented decision support systems: Putting analytics and big data in cloud
+AU  - Demirkan, Haluk
+AU  - Delen, Dursun
+T2  - Decision Support Systems
+AB  - Using service-oriented decision support systems (DSS in cloud) is one of the major trends for many organizations in hopes of becoming more agile. In this paper, after defining a list of requirements for service-oriented DSS, we propose a conceptual framework for DSS in cloud, and discus about research directions. A unique contribution of this paper is its perspective on how to servitize the product oriented DSS environment, and demonstrate the opportunities and challenges of engineering service oriented DSS in cloud. When we define data, information and analytics as services, we see that traditional measurement mechanisms, which are mainly time and cost driven, do not work well. Organizations need to consider value of service level and quality in addition to the cost and duration of delivered services. DSS in CLOUD enables scale, scope and speed economies. This article contributes new knowledge in service science by tying the information technology strategy perspectives to the database and design science perspectives for a broader audience.
+DA  - 2013/04/01/
+PY  - 2013
+DO  - 10.1016/j.dss.2012.05.048
+VL  - 55
+IS  - 1
+SP  - 412
+EP  - 421
+J2  - Decision Support Systems
+SN  - 0167-9236
+UR  - http://www.sciencedirect.com/science/article/pii/S0167923612001595
+L2  - https://www.ub.uni-koeln.de/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=article&sid=ProQ:ProQ%3Aabiglobal&atitle=Leveraging+the+capabilities+of+service-oriented+decision+support+systems%3A+Putting+analytics+and+big+data+in+cloud&title=Decision+Support+Systems&issn=01679236&date=2013-04-01&volume=55&issue=1&spage=412&au=Demirkan%2C+Haluk%3BDelen%2C+Dursun&isbn=&jtitle=Decision+Support+Systems&btitle=&rft_id=info:eric/&rft_id=info:doi/
+N1  - <p>Accession Number: 87616722; Demirkan, Haluk 1; Email Address: haluk.demirkan@gmail.com; Delen, Dursun 2; Affiliations: 1: The Milgard School of Business, University of Washington Tacoma, United States; 2: Department of Management Science and Information Systems, Spears School of Business, Oklahoma State University, United States; Issue Info: Apr2013, Vol. 55 Issue 1, p412; Thesaurus Term: Decision support systems; Thesaurus Term: Data analysis; Subject Term: Service-oriented architecture (Computer science); Subject Term: Cloud computing; Subject Term: Institutional environment; Subject Term: Opportunity; Author-Supplied Keyword: Analytics-as-a-service; Author-Supplied Keyword: Big data; Author-Supplied Keyword: Data-as-a-service; Author-Supplied Keyword: Information-as-a-service; Author-Supplied Keyword: Service orientation; Author-Supplied Keyword: Service science; NAICS/Industry Codes: 518210 Data Processing, Hosting, and Related Services; Number of Pages: 10p; Document Type: Article</p>
+N1  - <p>CODEN - DSSYDK</p>
+N1  - <p>Copyright - Copyright Elsevier Sequoia S.A. Apr 2013</p>
+N1  - <p>Last updated - 2013-05-15</p>
+KW  - Cloud computing
+KW  - Data analysis
+KW  - Big data
+KW  - Service-oriented architecture (Computer science)
+KW  - 9130:Experiment/theoretical treatment
+KW  - Studies
+KW  - 5240:Software & systems
+KW  - Decision support systems
+KW  - Computers--Automation
+KW  - Software engineering
+KW  - Information technology
+KW  - Analytics-as-a-service
+KW  - Data-as-a-service
+KW  - Information-as-a-service
+KW  - Service orientation
+KW  - Service science
+KW  - Service oriented architecture
+KW  - Institutional environment
+KW  - Opportunity
+ER  - 
+
+TY  - JOUR
+TI  - Eight key issues for the decision support systems discipline
+AU  - Arnott, David
+AU  - Pervan, Graham
+T2  - Decision Support Systems
+AB  - This paper integrates a number of strands of a long-term project that is critically analysing the academic field of decision support systems (DSS). The project is based on the content analysis of 1093 DSS articles published in 14 major journals from 1990 to 2004. An examination of the findings of each part of the project yields eight key issues that the DSS field should address for it to continue to play an important part in information systems scholarship. These eight issues are: the relevance of DSS research, DSS research methods and paradigms, the judgement and decision-making theoretical foundations of DSS research, the role of the IT artifact in DSS research, the funding of DSS research, inertia and conservatism of DSS research agendas, DSS exposure in general “A” journals, and discipline coherence. The discussion of each issue is based on the data derived from the article content analysis. A number of suggestions are made for the improvement of DSS research. These relate to case study research, design science, professional relevance, industry funding, theoretical foundations, data warehousing, and business intelligence. The suggestions should help DSS researchers construct high quality research agendas that are relevant and rigorous.
+DA  - 2008/02/01/
+PY  - 2008
+DO  - 10.1016/j.dss.2007.09.003
+VL  - 44
+IS  - 3
+SP  - 657
+EP  - 672
+J2  - Decision Support Systems
+SN  - 0167-9236
+UR  - http://www.sciencedirect.com/science/article/pii/S0167923607001698
+L2  - https://www.ub.uni-koeln.de/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=article&sid=ProQ:ProQ%3Aabiglobal&atitle=Eight+key+issues+for+the+decision+support+systems+discipline&title=Decision+Support+Systems&issn=01679236&date=2008-02-01&volume=44&issue=3&spage=657&au=Arnott%2C+David%3BPervan%2C+Graham&isbn=&jtitle=Decision+Support+Systems&btitle=&rft_id=info:eric/&rft_id=info:doi/
+N1  - <p>Accession Number: 27933343; Arnott, David 1; Email Address: david.arnott@infotech.monash.edu.au; Pervan, Graham 2; Affiliations: 1: Centre for Decision Support and Enterprise Systems Research, Monash University, Melbourne, Australia; 2: Curtin Business School, Curtin University of Technology, Perth, Australia; Issue Info: Feb2008, Vol. 44 Issue 3, p657; Thesaurus Term: Warehouse management; Thesaurus Term: Decision support systems; Thesaurus Term: Database management; Thesaurus Term: Data warehousing; Author-Supplied Keyword: Business intelligence; Author-Supplied Keyword: Executive information systems; Author-Supplied Keyword: Group support systems; Author-Supplied Keyword: Review; NAICS/Industry Codes: 518210 Data Processing, Hosting, and Related Services; NAICS/Industry Codes: 236220 Commercial and Institutional Building Construction; NAICS/Industry Codes: 493110 General Warehousing and Storage; NAICS/Industry Codes: 493190 Other Warehousing and Storage; Number of Pages: 16p; Document Type: Article</p>
+N1  - <p>CODEN - DSSYDK</p>
+N1  - <p>Copyright - Copyright Elsevier Sequoia S.A. Feb 2008</p>
+N1  - <p>Last updated - 2014-05-19</p>
+KW  - Decision making
+KW  - 9130:Experiment/theoretical treatment
+KW  - Studies
+KW  - 5240:Software & systems
+KW  - Decision support systems
+KW  - Computers--Automation
+KW  - Database management
+KW  - Content analysis
+KW  - Business intelligence
+KW  - Data warehousing
+KW  - Executive information systems
+KW  - Group support systems
+KW  - Review
+KW  - Judgment
+KW  - Warehouse management
+ER  - 
+
+TY  - JOUR
+TI  - Improving physicians' performance with a stroke CDSS: A cognitive fit design approach
+AU  - Chang, Te-Min
+AU  - Kao, Hao-Yun
+AU  - Wu, Jen-Her
+AU  - Su, Yu-Feng
+T2  - Computers in Human Behavior
+AB  - A large body of evidence over many years suggests that clinical decision support systems (CDSSs) can be helpful in improving both clinical outcomes and adherence to evidence-based guidelines. CDSSs have however failed to show their effectiveness due to poor ease of use and integration within clinical workflows. This research therefore emphasizes a cognitive fit design approach to developing an effective CDSS to solve those issues. According to the cognitive fit theory CDSS should align with the problem and task representation in order to match the physician's mental model to reduce cognitive effort. Several guidelines based on the cognitive fit design are proposed. A stroke CDSS prototype following the design guidelines is developed to demonstrate its feasibility. The system usability test results showed that the developed stroke CDSS was acceptably accurate, able to lessen the cognitive effort as desired, and preferable for use due to the significant reduction in cognitive load. The developed artifact has shown the potential to benefit physicians. Finally, implications and conclusions are discussed.
+DA  - 2016/01/01/
+PY  - 2016
+DO  - 10.1016/j.chb.2015.07.054
+VL  - 54
+SP  - 577
+EP  - 586
+J2  - Computers in Human Behavior
+SN  - 0747-5632
+UR  - http://www.sciencedirect.com/science/article/pii/S0747563215300662
+KW  - Cognitive load
+KW  - Cognitive fit theory
+KW  - Clinical decision support systems
+KW  - Cognitive effort
+KW  - Design science Research
+ER  - 
+
+TY  - JOUR
+TI  - A DSS Design Model for complex problems: Lessons from mission critical infrastructure
+AU  - Klashner, Robb
+AU  - Sabet, Sameh
+T2  - Integrated Decision Support
+AB  - This paper presents a new DSS Design Model for complex, mission critical decision-making situations and its technical, conceptual, and partial empirical evaluation. The new model was derived from conceptual design research and through a deep qualitative field research study at an electric power utility control center—a typical arena for “wicked” problems. The model suggests an iterative process of theory, simulation, and decision-making interactions. The DSS Design Model is validated using a tool instantiation, microgrid mini-case, and current research of a KMDSS for telecommunications. Main findings suggest that broader and more integrated approaches are necessary to design DSS for complex domains.
+DA  - 2007/04/01/
+PY  - 2007
+DO  - 10.1016/j.dss.2005.05.027
+VL  - 43
+IS  - 3
+SP  - 990
+EP  - 1013
+J2  - Decision Support Systems
+SN  - 0167-9236
+UR  - http://www.sciencedirect.com/science/article/pii/S0167923605000928
+L2  - https://www.ub.uni-koeln.de/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=article&sid=ProQ:ProQ%3Aabiglobal&atitle=A+DSS+Design+Model+for+complex+problems%3A+Lessons+from+mission+critical+infrastructure&title=Decision+Support+Systems&issn=01679236&date=2007-04-01&volume=43&issue=3&spage=990&au=Klashner%2C+Robb%3BSabet%2C+Sameh&isbn=&jtitle=Decision+Support+Systems&btitle=&rft_id=info:eric/&rft_id=info:doi/
+N1  - <p>Accession Number: 24542280; Klashner, Robb 1; Email Address: klashner@njit.edu; Sabet, Sameh 1,2; Affiliations: 1: Information Systems Department, New Jersey Institute of Technology, Newark, NJ 07102-1982, United States; 2: Tyco Telecommunications, 250 Industrial Way West, Eatontown, NJ 07724, United States; Issue Info: Apr2007, Vol. 43 Issue 3, p990; Thesaurus Term: Decision making; Thesaurus Term: Problem solving; Thesaurus Term: Electric utilities; Thesaurus Term: Power resources; Author-Supplied Keyword: Complex adaptive systems; Author-Supplied Keyword: Decision support systems; Author-Supplied Keyword: Design; Author-Supplied Keyword: Electricity; Author-Supplied Keyword: Infrastructure; Author-Supplied Keyword: Knowledge management; Author-Supplied Keyword: Wicked decisions; NAICS/Industry Codes: 221122 Electric Power Distribution; NAICS/Industry Codes: 221121 Electric Bulk Power Transmission and Control; NAICS/Industry Codes: 221118 Other Electric Power Generation; NAICS/Industry Codes: 221117 Biomass Electric Power Generation; NAICS/Industry Codes: 221116 Geothermal Electric Power Generation; NAICS/Industry Codes: 221115 Wind Electric Power Generation; NAICS/Industry Codes: 221114 Solar Electric Power Generation; NAICS/Industry Codes: 221113 Nuclear Electric Power Generation; NAICS/Industry Codes: 221111 Hydroelectric Power Generation; NAICS/Industry Codes: 221112 Fossil Fuel Electric Power Generation; Number of Pages: 24p; Document Type: Article</p>
+N1  - <p>CODEN - DSSYDK</p>
+N1  - <p>Copyright - Copyright Elsevier Sequoia S.A. Apr 2007</p>
+N1  - <p>Last updated - 2014-05-25</p>
+KW  - Design
+KW  - Infrastructure
+KW  - Knowledge management
+KW  - Problem solving
+KW  - Decision making
+KW  - 9130:Experiment/theoretical treatment
+KW  - Studies
+KW  - 5240:Software & systems
+KW  - Decision support systems
+KW  - Models
+KW  - Computers--Automation
+KW  - Systems design
+KW  - Electric utilities
+KW  - Power resources
+KW  - Complex adaptive systems
+KW  - Electricity
+KW  - Wicked decisions
+ER  - 
+
+TY  - JOUR
+TI  - Sustainability modelling and reporting: From roadmap to implementation
+AU  - Ahmed, M. Daud
+AU  - Sundaram, David
+T2  - Decision Support Systems
+AB  - Sustainable business management aspires towards balancing and integrating social, economic and environmental dimensions. Existing roadmaps, frameworks and systems do not comprehensively support sustainable business transformation nor do they allow decision makers to explore interrelationships and influences between the sustainability dimensions. This leads to silo-based decision making where vision and strategies are not mapped to execution, and sustainability modelling and reporting processes are uncoordinated. This research proposes and implements a generic sustainable business transformation roadmap, which is supported by a framework and architecture for integrated sustainability modelling and reporting. The implementation leverages system dynamics, workflow modelling and adaptable system concepts.
+DA  - 2012/06/01/
+PY  - 2012
+DO  - 10.1016/j.dss.2012.02.004
+VL  - 53
+IS  - 3
+SP  - 611
+EP  - 624
+J2  - Decision Support Systems
+SN  - 0167-9236
+UR  - http://www.sciencedirect.com/science/article/pii/S0167923612000620
+KW  - Sustainability
+KW  - Adaptive systems
+KW  - Business transformation roadmap
+KW  - Decision modelling
+KW  - DSS framework and architecture
+KW  - Sustainability modelling and reporting system
+ER  - 
+
+TY  - JOUR
+TI  - Healthcare support for underserved communities using a mobile social media platform
+AU  - Miah, Shah Jahan
+AU  - Hasan, Najmul
+AU  - Hasan, Rashadul
+AU  - Gammack, John
+T2  - Information Systems
+AB  - Emerging digital technologies for healthcare information support have already contributed to reducing the digital divide among rural communities. Although mobile health (m-health) applications facilitate provision of support for treatment consultation in real-time, their substantial potential has not yet been operationalised for decision support to meet citizen demand in developing nations. Modern healthcare information access, especially in rural areas of developing countries, is critical to effective healthcare, since both information and expert opinions are limited. Mobile phone and social media penetration, however, is often extensive. In this paper, we design and evaluate an innovative mobile decision support system (MDSS) solution for rural citizens healthcare decision support and information dissemination. Developed using a design science approach, the instantiated artifact connects underserved rural patients in Bangladesh to general practitioners (GPs) – allowing GPs, based on queries and information support provided, to evaluate patient conditions virtually and provide answers for further diagnosis or treatment. A cloud platform using social media embodies health record information and is used with a rating technique that matches queries to profiled remote experts, participating asynchronously. A comprehensive evaluation of the MDSS artifact ensures its utility, efficacy, and reliability.
+DA  - 2017/06/01/
+PY  - 2017
+DO  - 10.1016/j.is.2017.01.001
+VL  - 66
+SP  - 1
+EP  - 12
+J2  - Information Systems
+SN  - 0306-4379
+UR  - http://www.sciencedirect.com/science/article/pii/S0306437917300029
+N1  - <p>Accession Number: 123373902; Miah, Shah Jahan 1; Email Address: shah.miah@vu.edu.au Hasan, Najmul 2 Hasan, Rashadul 3 Gammack, John 4; Affiliation:&nbsp;&nbsp;1: Information Systems Discipline, College of Business, Victoria University, Footscray Park Campus, Melbourne, Australia&nbsp;&nbsp;2: MRC Bangladesh Ltd, Dhaka, Bangladesh&nbsp;&nbsp;3: Brainstorm Bangladesh Ltd., Dhaka, Bangladesh&nbsp;&nbsp;4: College of Technological Innovation, Zayed University, Abu Dhabi, United Arab Emirates; Source Info: Jun2017, Vol. 66, p1; Subject Term: SOCIAL media; Subject Term: MEDICAL care; Subject Term: DIGITAL technology; Subject Term: MEDICALLY underserved areas; Subject Term: WIRELESS communications in medical care; Author-Supplied Keyword: Decision support; Author-Supplied Keyword: Design science; Author-Supplied Keyword: Healthcare information; Author-Supplied Keyword: m-Health; Author-Supplied Keyword: Social media; Author-Supplied Keyword: Underserved citizens; Number of Pages: 12p; Document Type: Article</p>
+KW  - Social media
+KW  - Decision support
+KW  - Design science
+KW  - MEDICAL care
+KW  - SOCIAL media
+KW  - DIGITAL technology
+KW  - Healthcare information
+KW  - m-Health
+KW  - Underserved citizens
+KW  - MEDICALLY underserved areas
+KW  - WIRELESS communications in medical care
+ER  - 
+
+TY  - JOUR
+TI  - Participatory implementation of an antibiotic stewardship programme supported by an innovative surveillance and clinical decision-support system
+AU  - Simões, A.S.
+AU  - Maia, M.R.
+AU  - Gregório, J.
+AU  - Couto, I.
+AU  - Asfeldt, A.M.
+AU  - Simonsen, G.S.
+AU  - Póvoa, P.
+AU  - Viveiros, M.
+AU  - Lapão, L.V.
+T2  - Journal of Hospital Infection
+AB  - Summary
+Background
+Antibiotic resistance will cause about 10 million deaths per year by 2050. Fighting antimicrobial resistance is a health priority. Interventions aimed to reduce antimicrobial resistance, such as antibiotic stewardship programmes (ASPs), must be implemented. To be effective, those interventions, and the implementation process, should be matched with social–cultural context. The complexity of ASPs can no longer be developed without considering both organizational and information systems.
+Aim
+To support ASPs through the co-design and implementation, in collaboration with healthcare workers, of a surveillance and clinical decision-support system to monitor antibiotic resistance and improve antibiotic prescription.
+Methods
+The surveillance and clinical decision-support system was designed and implemented in three Portuguese hospitals, using a participatory approach between researchers and healthcare workers following the Design Science Research Methodology.
+Findings
+Based on healthcare workers' requirements, we developed HAITooL, a real-time surveillance and clinical decision-support system that integrates visualizations of patient, microbiology, and pharmacy data, facilitating clinical decision. HAITooL monitors antibiotic usage and rates of antibiotic-resistant bacteria, allowing early identification of outbreaks. It is a clinical decision-support tool that integrates evidence-based algorithms to support proper antibiotic prescription. HAITooL was considered valuable to support monitoring of antibiotic resistant infections and an important tool for ASP sustainability.
+Conclusion
+ASP implementation can be leveraged through a surveillance and clinical decision-support system such as HAITooL that allows antibiotic resistance monitoring and supports antibiotic prescription, once it has been adapted to the context and specific needs of healthcare workers and hospitals.
+DA  - 2018/11/01/
+PY  - 2018
+DO  - 10.1016/j.jhin.2018.07.034
+VL  - 100
+IS  - 3
+SP  - 257
+EP  - 264
+J2  - Journal of Hospital Infection
+SN  - 0195-6701
+UR  - http://www.sciencedirect.com/science/article/pii/S0195670118303992
+KW  - Information systems
+KW  - Implementation
+KW  - Antibiotic stewardship programmes
+KW  - Antimicrobial resistance
+KW  - Clinical decision-support system
+ER  - 
+
+TY  - JOUR
+TI  - A method for Smart Idea Allocation in crowd-based idea selection
+AU  - Banken, Victoria
+AU  - Ilmer, Quirin
+AU  - Seeber, Isabella
+AU  - Haeussler, Stefan
+T2  - Decision Support Systems
+AB  - When evaluating ideas, raters can quickly experience cognitive overload that might result in poor selection performance. Contest managers have an interest in designing idea evaluation tasks that reduce the expected cognitive load of raters. However, research on how managers can meaningfully allocate ideas to raters to manage cognitive load is limited. Moreover, it is unclear how decision support (systems) should be designed in order to help managers to effectively allocate ideas. This paper addresses this challenge and suggests nine design principles and an approach for Smart Idea Allocation (SIA) as a design artifact, which chunks ideas into small subsets, utilizes cognitive biases, and fairly distributes expected cognitive load among raters. We evaluated the SIA approach on a sample of 525 ideas and compared its performance with a random allocation. Our findings suggest that SIA can utilize potential cognitive biases (salience, herding, and order and anchoring bias) more successfully than a random allocation would, distributes the expected cognitive load more fairly among raters, and requires fewer raters for the evaluation task than a random allocation approach. These findings have implications for research on idea selection and are useful for managers of innovation contests.
+DA  - 2019/09/01/
+PY  - 2019
+DO  - 10.1016/j.dss.2019.113072
+VL  - 124
+SP  - 113072
+J2  - Decision Support Systems
+SN  - 0167-9236
+UR  - http://www.sciencedirect.com/science/article/pii/S0167923619301010
+KW  - Open innovation
+KW  - Design science
+KW  - Bin packing
+KW  - Crowd evaluation
+KW  - Idea contest
+KW  - Set partitioning
+ER  - 
+
+TY  - JOUR
+TI  - A feedback control approach to maintain consumer information load in online shopping environments
+AU  - Krishen, Anjala S.
+AU  - Raschke, Robyn L.
+AU  - Kachroo, Pushkin
+T2  - Information & Management
+AB  - The heterogeneity of e-commerce users requires online shopping environments to advance from a simple framework to one that is adaptive. This need results from the negative consequences of user frustration due to information load. We used a feedback control theory based approach to address the online consumer information overload issue in an adaptive manner. To demonstrate the efficacy of this feedback control approach, a design science method evaluated the feedback controller. The main effect was that the dynamic adaptivity did not have to rely on summarizing data for inference to the individual. The proposed feedback control design is therefore a robust and viable option for organizations to incorporate into their online shopping environments to accommodate user variation of information load for e-commerce adaptivity.
+DA  - 2011/12/01/
+PY  - 2011
+DO  - 10.1016/j.im.2011.09.005
+VL  - 48
+IS  - 8
+SP  - 344
+EP  - 352
+J2  - Information & Management
+SN  - 0378-7206
+UR  - http://www.sciencedirect.com/science/article/pii/S0378720611000796
+KW  - Feedback control
+KW  - Consumer decision-making
+KW  - Adaptive DSS
+KW  - Consumer choice
+KW  - e-Commerce adaptive systems
+KW  - Information load
+ER  - 
+
+TY  - JOUR
+TI  - Decision support systems for adoption in dental clinics: A survey
+AU  - Goh, Wee Pheng
+AU  - Tao, Xiaohui
+AU  - Zhang, Ji
+AU  - Yong, Jianming
+T2  - Knowledge-Based Systems
+AB  - While most dental clinicians use some sort of information system, they are involved with administrative functions, despite the advisory potential of some of these systems. This paper outlines some current decision support systems (DSS) and the common barriers facing dentists in adopting them within their workflow. These barriers include lack of perceived usefulness, complicated social and economic factors, and the difficulty for users to interpret the advice given by the system. A survey of current systems found that although there are systems that suggest treatment options, there is no real-time integration with other knowledge bases. Additionally, advice on drug prescription at point-of-care is absent from such systems, which is a significant omission, in consideration of the fact that disease management and drug prescription are common in the workflow of a dentist. This paper also addresses future trends in the research and development of dental clinical DSS, with specific emphasis on big data, standards and privacy issues to fulfil the vision of a robust, user-friendly and scalable personalised DSS for dentists. The findings of this study will offer strategies in design, research and development of a DSS with sufficient perceived usefulness to attract adoption and integration by dentists within their routine clinical workflow, thus resulting in better health outcomes for patients and increased productivity for the clinic.
+DA  - 2016/07/15/
+PY  - 2016
+DO  - 10.1016/j.knosys.2016.04.022
+VL  - 104
+SP  - 195
+EP  - 206
+J2  - Knowledge-Based Systems
+SN  - 0950-7051
+UR  - http://www.sciencedirect.com/science/article/pii/S0950705116300740
+N1  - <p>Accession Number: 115492129; Goh, Wee Pheng 1 Tao, Xiaohui 1; Email Address: xtao@usq.edu.au Zhang, Ji 1 Yong, Jianming 2; Affiliation:&nbsp;&nbsp;1: Faculty of Health, Engineering and Sciences, University of Southern Queensland, Australia&nbsp;&nbsp;2: Faculty of Business, Education, Law and Arts, University of Southern Queensland, Australia; Source Info: Jul2016, Vol. 104, p195; Subject Term: DECISION support systems; Subject Term: DENTAL clinics; Subject Term: INFORMATION storage & retrieval systems; Subject Term: ECONOMIC impact; Subject Term: KNOWLEDGE management; Author-Supplied Keyword: Big data; Author-Supplied Keyword: Dental clinical decision support system; Author-Supplied Keyword: Dental HCI; Author-Supplied Keyword: Dental informatics; NAICS/Industry Codes: 621210 Offices of Dentists; Number of Pages: 12p; Document Type: Article</p>
+KW  - Big data
+KW  - Dental informatics
+KW  - INFORMATION storage & retrieval systems
+KW  - KNOWLEDGE management
+KW  - ECONOMIC impact
+KW  - DECISION support systems
+KW  - Dental clinical decision support system
+KW  - Dental HCI
+KW  - DENTAL clinics
+ER  - 
+
+TY  - JOUR
+TI  - Enhancing manufacturing and transportation decision support systems with LCA add-ins
+AU  - Stiel, F.
+AU  - Michel, T.
+AU  - Teuteberg, F.
+T2  - Special Volume: Improved resource efficiency and cascading utilisation of renewable materials
+AB  - The current life cycle assessment software landscape contributes not sufficiently to the dynamic behavior of manufacturing and transportation systems. This work presents a conceptual framework as well as conceptual software architecture to foster the integration of life cycle assessment software tools with dynamic manufacturing and transportation decision support tools. The results reveal interfaces and overlap between the existing life cycle assessment and decision support concepts as well as starting points to bridge this existing gap between static and dynamic approaches. In contrast to recent life cycle assessment approaches, mostly relying on static modeling concepts and calculation engines, the introduced software architecture is able to comprise dynamic modeling approaches and software engines within life cycle assessment. A descriptive case scenario suggests that the use of life cycle assessment add-ins for manufacturing and transportation decision support systems is capable to generate more valid environmental impact data compared to traditional life cycle assessment approaches. Moreover, a higher resolution of the generated data as well as a reduced modeling effort makes life cycle assessment add-ins desirable not only for the use within research but also for the use within manufacturing and transportation practice. Implementations and architectures will, however, need to be explored with more complex cases in manufacturing and transportation.
+DA  - 2016/01/01/
+PY  - 2016
+DO  - 10.1016/j.jclepro.2015.07.140
+VL  - 110
+SP  - 85
+EP  - 98
+J2  - Journal of Cleaner Production
+SN  - 0959-6526
+UR  - http://www.sciencedirect.com/science/article/pii/S0959652615010719
+KW  - Decision support systems
+KW  - Design science
+KW  - Discrete-event simulation
+KW  - Life cycle assessment
+ER  - 
+
+TY  - JOUR
+TI  - Towards ubiquitous information supply for individual investors: A decision support system design
+AU  - Muntermann, Jan
+T2  - Decision Support Systems
+AB  - This paper introduces an IT artifact called MoFiN DSS that comprises hard- and software components that provide the basis for a prototype of a financial decision support system (DSS) to support individual investors reacting to unforeseen market events. We have derived our motivation for building such a system design from behavioral finance research. Analyses of the behavior of individual investors provide evidence that this segment does react more significantly to any public news published compared to institutional investors. On the other hand, the analyses show that they react significantly slower than their institutional counterparts. Since empirical intraday event study analyses show that capital markets react promptly to new information and that excess returns decrease over a specific period of time, individual investors miss significant trading opportunities due to their current strategies of information research. We address the problem that this market segment is not able to continuously observe diverse information channels and to assess all the new information available. Our prototype decision support system continuously observes company announcements and forecasts their potential impact on the corresponding stock price. After identifying those events for which significant market reactions can be expected, wireless push-based message services provide the technical basis for prompt and location-independent information supply. Based on a novel simulation-based evaluation methodology we have developed, we demonstrate and quantify the advantages that the developed system provides to the individual investors.
+DA  - 2009/05/01/
+PY  - 2009
+DO  - 10.1016/j.dss.2009.01.003
+VL  - 47
+IS  - 2
+SP  - 82
+EP  - 92
+J2  - Decision Support Systems
+SN  - 0167-9236
+UR  - http://www.sciencedirect.com/science/article/pii/S0167923609000256
+KW  - Design science
+KW  - Financial decision support
+KW  - Ubiquitous information provisioning
+ER  - 
+
+TY  - JOUR
+TI  - Knowledge level modeling for systemic risk management in financial institutions
+AU  - Ye, Kang
+AU  - Yan, Jiaqi
+AU  - Wang, Shanshan
+AU  - Wang, Huaiqing
+AU  - Miao, Baiqi
+T2  - Expert Systems with Applications
+AB  - The current subprime mortgage crisis is a typical case for systemic risk in financial institutions. In order to further our understanding and communication about systemic risk management (SRM) in financial institutions, this paper proposes a knowledge level model (KLM) for systemic risk management in financial institutions. There are two parts considered in the proposed KLM: ontologies and problem solving method (PSM). Ontologies are adopted to represent a knowledge base of KLM, which integrates top level ontology and domain level ontologies. And then the problem solving method is given to show the reasoning process of this knowledge. The symbol level of KLM is also discussed which integrates OWL, SWRL and JESS. Further, the discussion about Lehman Brother’s Minibonds case in 2008 is provided to illustrate how proposed KLM is used in practice. With these, first, they will enhance the interchange of information and knowledge sharing for SRM within a financial institution. Second, they will assist knowledge base development for SRM design, for which a prototype of financial systemic risk management decision support system is given in this study. Third, they will support coordination among different institutions by using standardized vocabularies. And finally, from the design science perspective, the whole proposed framework could be meaningful to models in other domains.
+DA  - 2011/04/01/
+PY  - 2011
+DO  - 10.1016/j.eswa.2010.08.141
+VL  - 38
+IS  - 4
+SP  - 3528
+EP  - 3538
+J2  - Expert Systems with Applications
+SN  - 0957-4174
+UR  - http://www.sciencedirect.com/science/article/pii/S0957417410009498
+N1  - <p>Accession Number: 57080653; Ye, Kang 1; Email Address: ye.shaokang@gmail.com Yan, Jiaqi 2 Wang, Shanshan 3 Wang, Huaiqing 2 Miao, Baiqi 4; Affiliation:&nbsp;&nbsp;1: Research Center, Shanghai Stock Exchange, 528 Pudong Road, Shanghai, 200120, China&nbsp;&nbsp;2: Department of Information Systems, City University of Hong Kong, 83 Tat Chee Avenue, Kowloon, Hong Kong&nbsp;&nbsp;3: College of Computer Science, Inner Mongolia University, Inner Mongolia, China&nbsp;&nbsp;4: Department of Finance and Statistics, University of Science and Technology of China, 96 Jinzhai Road, Hefei, China; Source Info: Apr2011, Vol. 38 Issue 4, p3528; Subject Term: INTELLECTUAL development; Subject Term: RISK management in business; Subject Term: FINANCIAL institutions; Subject Term: SUBPRIME mortgages; Subject Term: PROBLEM solving; Subject Term: INFORMATION sharing; Author-Supplied Keyword: Knowledge level modeling; Author-Supplied Keyword: Ontology; Author-Supplied Keyword: Problem solving model; Author-Supplied Keyword: Subprime crisis; Author-Supplied Keyword: Systemic risk; Company/Entity: LEHMAN Brothers Inc.; NAICS/Industry Codes: 522291 Consumer Lending; Number of Pages: 11p; Document Type: Article</p>
+KW  - Ontology
+KW  - PROBLEM solving
+KW  - INFORMATION sharing
+KW  - Knowledge level modeling
+KW  - Problem solving model
+KW  - Subprime crisis
+KW  - Systemic risk
+KW  - FINANCIAL institutions
+KW  - INTELLECTUAL development
+KW  - LEHMAN Brothers Inc.
+KW  - RISK management in business
+KW  - SUBPRIME mortgages
+ER  - 
+
+TY  - JOUR
+TI  - A Metadesign Theory for Tailorable Decision Support
+AU  - Miah, Shah Jahan
+AU  - Gammack, John G
+AU  - McKay, Judy
+T2  - Journal of the Association for Information Systems
+AB  - Despite years of decision support systems (DSS) research, DSS artifacts are frequently criticized for lacking practitioner relevance and for neglecting configurability and contextual dynamism. Tailoring in end-user contexts can produce relevant emergent DSS artifacts, but design theory for this is lacking. Design science research (DSR) has important implications for improving DSS uptake, but generally this has not been promoted in the form of metadesigns with design principles applicable to other DSS developments. This paper describes a metadesign theory for tailorable DSS, generated through action design research studies in different primary industries. Design knowledge from a DSS developed in an agricultural domain was distilled and generalized into a design theory comprising: (1) a general solution concept (metadesign), and (2) five hypothesized design principles. These were then instantiated via a second development in which the metadesign and design principles were applied in a different domain (forestry) to produce a successful DSS, thus testing the metadesign and validating the design principles. In addition to contributing to DSR and illustrating innovation in tailorable technology, the paper demonstrates the utility of action design research to support theory development in DSS design.
+DA  - 2019///
+PY  - 2019
+DO  - 10.17705/1jais.00544
+VL  - 20
+IS  - 5
+SP  - 570
+EP  - 603
+LA  - English
+SN  - 15369323
+UR  - https://search.proquest.com/docview/2250950715?accountid=10218
+AN  - 2250950715
+DB  - ABI/INFORM Collection
+L2  - https://aisel.aisnet.org/jais/vol20/iss5/4/
+L2  - https://www.ub.uni-koeln.de/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=article&sid=ProQ:ProQ%3Aabiglobal&atitle=A+Metadesign+Theory+for+Tailorable+Decision+Support&title=Journal+of+the+Association+for+Information+Systems&issn=15369323&date=2019-01-01&volume=20&issue=5&spage=570&au=Miah%2C+Shah+Jahan%3BGammack%2C+John+G%3BMcKay%2C+Judy&isbn=&jtitle=Journal+of+the+Association+for+Information+Systems&btitle=&rft_id=info:eric/&rft_id=info:doi/10.17705%2F1jais.00544
+N1  - <p>Accession Number: 136761682; Miah, Shah Jahan 1; Email Address: shah.miah@vu.edu.au; Gammack, John G. 2; Email Address: john.gammack@gmail.com; McKay, Judy 3; Email Address: jmckay@swin.edu.au; Affiliations: 1: Victoria University, Australia; 2: Zayed University, United Arab Emirates; 3: Swinburne University of Technology, Australia; Issue Info: 2019, Vol. 20 Issue 5, p570; Thesaurus Term: Decision theory; Thesaurus Term: Decision support systems; Thesaurus Term: Design science; Subject Term: Design research; Author-Supplied Keyword: Action Design Research; Author-Supplied Keyword: Decision Support Systems; Author-Supplied Keyword: Design principles; Author-Supplied Keyword: Design Science Research; Author-Supplied Keyword: Instantiation Validity; Author-Supplied Keyword: Metadesign; Author-Supplied Keyword: Tailorable Design; Number of Pages: 34p; Illustrations: 6 Diagrams, 7 Charts; Document Type: Article</p>
+N1  - <p>Copyright - Copyright Association for Information Systems 2019</p>
+N1  - <p>Last updated - 2019-08-02</p>
+N1  - <p>SubjectsTermNotLitGenreText - Hawaii</p>
+KW  - Design
+KW  - Information systems
+KW  - Decision support systems
+KW  - Design science
+KW  - Science
+KW  - Decision theory
+KW  - Design research
+KW  - Computers--Information Science And Information Theory
+KW  - Design principles
+KW  - Principles
+KW  - Artifacts
+KW  - Action Design Research
+KW  - Design Science Research
+KW  - Metadesign
+KW  - Forestry
+KW  - Hawaii
+KW  - Knowledge based engineering
+KW  - Decision Support Systems
+KW  - Instantiation Validity
+KW  - Tailorable Design
+ER  - 
+
+TY  - JOUR
+TI  - Evaluation Tool for Business Success
+AU  - Miguel Ramirez de la Huerga
+AU  - Bañuls Silvera, Víctor A
+AU  - Turoff, Murray
+AU  - Manuel Rincón Roldan
+T2  - IDEAS Working Paper Series from RePEc
+AB  - This paper describes the construction of a tool supporting decision making (DSS). The name of the tool ‘’CIBSE’’, comes from the acronym CIA-ISM for Business Success Evaluation, and it evaluates the success rate of entrepreneurial ideas by analyzing the previously modified Business Model Canvas (BMC). Modified Business Model Canvas include financial and no financial dimensions as a way to extend the original BMC. In order to analyze data, a model based on CIA-ISM is used to evaluate scenarios, and it enables the estimation of direct, indirect and cascading effects interrelationships between all dimensions to calculate an indicator of success. Moreover, this tool is able to identify weak and strong points of BMC, which will help to attain the survival goal of undertaking by reducing the level of uncertainty, or in other words, by reducing risk. Paradigm of Design Science has been used as a point of reference to design this tool, along the seven guidelines stated from the conceptualization of goal to the dissemination of results. Although this study is focused on regional context, it is associated with a project of public services of the 4th biggest region of the EU regarding the population size, as well as the 6th biggest region regarding its extent. This approach allows direct access, as well as a privileged access to data, technical resources and professionals to develop the model, tool and perform further validation having data of real projects.
+DA  - 2019///
+PY  - 2019
+LA  - English
+UR  - https://search.proquest.com/docview/2230000350?accountid=10218
+AN  - 2230000350
+DB  - ABI/INFORM Collection
+L2  - https://www.ub.uni-koeln.de/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=preprint&sid=ProQ:ProQ%3Aabiglobal&atitle=Evaluation+Tool+for+Business+Success&title=IDEAS+Working+Paper+Series+from+RePEc&issn=&date=2019-01-01&volume=&issue=&spage=&au=Miguel+Ramirez+de+la+Huerga%3BBa%C3%B1uls+Silvera%2C+V%C3%ADctor+A%3BTuroff%2C+Murray%3BManuel+Rinc%C3%B3n+Roldan&isbn=&jtitle=IDEAS+Working+Paper+Series+from+RePEc&btitle=&rft_id=info:eric/&rft_id=info:doi/
+L2  - https://ideas.repec.org/p/pab/wpboam/19.01.html
+N1  - <p>Copyright - (c) 2019. Notwithstanding the ProQuest Terms and conditions, you may use this content in accordance with the associated terms available at https://research.stlouisfed.org/research_terms.html .</p>
+N1  - <p>Last updated - 2019-05-26</p>
+N1  - <p>Name - Central Intelligence Agency--CIA</p>
+KW  - Business models
+KW  - Success
+KW  - Business And Economics
+ER  - 
+
+TY  - JOUR
+TI  - Ontology-based information security compliance determination and control selection on the example of ISO 27002
+AU  - Fenz, Stefan
+AU  - Neubauer, Thomas
+T2  - Information and Computer Security
+AB  - PurposeThe purpose of this paper is to provide a method to formalize information security control descriptions and a decision support system increasing the automation level and, therefore, the cost efficiency of the information security compliance checking process. The authors advanced the state-of-the-art by developing and applying the method to ISO 27002 information security controls and by developing a semantic decision support system.Design/methodology/approachThe research has been conducted under design science principles. The formalized information security controls were used in a compliance/risk management decision support system which has been evaluated with experts and end-users in real-world environments.FindingsThere are different ways of obtaining compliance to information security standards. For example, by implementing countermeasures of different quality depending on the protection needs of the organization. The authors developed decision support mechanisms which use the formal control descriptions as input to support the decision-maker at identifying the most appropriate countermeasure strategy based on cost and risk reduction potential.Originality/valueFormalizing and mapping the ISO 27002 controls to the security ontology enabled the authors to automatically determine the compliance status and organization-wide risk-level based on the formal control descriptions and the modelled environment, including organizational structures, IT infrastructure, available countermeasures, etc. Furthermore, it allowed them to automatically determine which countermeasures are missing to ensure compliance and to decrease the risk to an acceptable level.
+DA  - 2018///
+PY  - 2018
+DO  - 10.1108/ICS-02-2018-0020
+VL  - 26
+IS  - 5
+SP  - 551
+EP  - 567
+LA  - English
+SN  - 20564961
+UR  - https://search.proquest.com/docview/2136546761?accountid=10218
+AN  - 2136546761
+DB  - ABI/INFORM Collection
+L2  - https://www.ub.uni-koeln.de/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=article&sid=ProQ:ProQ%3Aabiglobal&atitle=Ontology-based+information+security+compliance+determination+and+control+selection+on+the+example+of+ISO+27002&title=Information+and+Computer+Security&issn=20564961&date=2018-10-20&volume=26&issue=5&spage=551&au=Fenz%2C+Stefan%3BNeubauer%2C+Thomas&isbn=&jtitle=Information+and+Computer+Security&btitle=&rft_id=info:eric/&rft_id=info:doi/10.1108%2FICS-02-2018-0020
+N1  - <p>Copyright - © 2018. This work is published under http://creativecommons.org/licences/by/4.0 (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</p>
+N1  - <p>Last updated - 2019-09-06</p>
+KW  - Risk
+KW  - Ontology
+KW  - Automation
+KW  - Software
+KW  - Computer security
+KW  - Business And Economics--Management
+KW  - Decision support systems
+KW  - Security management
+KW  - security
+KW  - Organizations
+KW  - Risk management
+KW  - Organizational aspects
+KW  - Compliance
+KW  - Descriptions
+KW  - Environmental engineering
+KW  - State of the art
+ER  - 
+
+TY  - JOUR
+TI  - Design principles for a hybrid intelligence decision support system for business model validation
+AU  - Dellermann, Dominik
+AU  - Lipusch, Nikolaus
+AU  - Ebel, Philipp
+AU  - Jan Marco Leimeister
+T2  - Electronic Markets
+AB  - One of the most critical tasks for startups is to validate their business model. Therefore, entrepreneurs try to collect information such as feedback from other actors to assess the validity of their assumptions and make decisions. However, previous work on decisional guidance for business model validation provides no solution for the highly uncertain and complex context of early-stage startups. The purpose of this paper is, thus, to develop design principles for a Hybrid Intelligence decision support system (HI-DSS) that combines the complementary capabilities of human and machine intelligence. We follow a design science research approach to design a prototype artifact and a set of design principles. Our study provides prescriptive knowledge for HI-DSS and contributes to previous work on decision support for business models, the applications of complementary strengths of humans and machines for making decisions, and support systems for extremely uncertain decision-making problems.
+DA  - 2018/08//
+PY  - 2018
+DO  - 10.1007/s12525-018-0309-2
+SP  - 1
+EP  - 19
+LA  - English
+SN  - 10196781
+UR  - https://search.proquest.com/docview/2084103656?accountid=10218
+AN  - 2084103656
+DB  - ABI/INFORM Collection; International Bibliography of the Social Sciences (IBSS)
+L2  - https://www.ub.uni-koeln.de/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=article&sid=ProQ:ProQ%3Aabiglobal&atitle=Design+principles+for+a+hybrid+intelligence+decision+support+system+for+business+model+validation&title=Electronic+Markets&issn=10196781&date=2018-08-01&volume=&issue=&spage=1&au=Dellermann%2C+Dominik%3BLipusch%2C+Nikolaus%3BEbel%2C+Philipp%3BJan+Marco+Leimeister&isbn=&jtitle=Electronic+Markets&btitle=&rft_id=info:eric/&rft_id=info:doi/10.1007%2Fs12525-018-0309-2
+N1  - <p>Copyright - Electronic Markets is a copyright of Springer, (2018). All Rights Reserved.</p>
+N1  - <p>Last updated - 2019-04-24</p>
+KW  - Decision support system
+KW  - Machine learning
+KW  - Decision making
+KW  - Studies
+KW  - Decision support systems
+KW  - Business And Economics--Computer Applications
+KW  - Information technology
+KW  - Electronic commerce
+KW  - Collective intelligence
+KW  - Business
+KW  - Business model
+KW  - D81
+KW  - Hybrid intelligence
+KW  - Hybrid systems
+KW  - Startups
+ER  - 
+
+TY  - JOUR
+TI  - Innovative decision support for IT service management
+AU  - Shrestha, Anup
+AU  - Cater-Steel, Aileen
+AU  - Toleman, Mark
+T2  - Journal of Decision Systems
+AB  - The IT Service Management (ITSM) industry has defined processes as best practices in the widely-accepted IT Infrastructure Library (ITIL®) framework. However, there are few tools available to provide decision support to IT Service Managers who wish to improve service management processes. It is essential to assess the current capability of processes before process improvements are planned. Our research addressed the problems of the lack of transparency and the need for efficiency in ITSM process assessment. Using the Design Science Research methodology, we developed an innovative Software-mediated Process Assessment (SMPA) approach that automates assessment of ITSM processes and supports the decision-making of IT Service Managers. The SMPA approach includes process selection, an online survey to collect assessment data, measurement of process capability and specific recommendations for managers to commence process improvement. We implemented a decision support system (DSS) to automate the SMPA approach and evaluated it at two IT service providers. The evaluations indicated that the SMPA approach supports decision-making on process improvements. In the future, data analytics performed on the assessment data can help IT managers to analyse and visualise the 'big data' of process knowledge.
+DA  - 2016///
+PY  - 2016
+DO  - 10.1080/12460125.2016.1187424
+VL  - 25
+SP  - 486
+EP  - 499
+LA  - English
+SN  - 12460125
+UR  - https://search.proquest.com/docview/2235023809?accountid=10218
+AN  - 2235023809
+DB  - ABI/INFORM Collection
+L2  - https://www.ub.uni-koeln.de/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=article&sid=ProQ:ProQ%3Aabiglobal&atitle=Innovative+decision+support+for+IT+service+management&title=Journal+of+Decision+Systems&issn=12460125&date=2016-06-01&volume=25&issue=&spage=486&au=Shrestha%2C+Anup%3BCater-Steel%2C+Aileen%3BToleman%2C+Mark&isbn=&jtitle=Journal+of+Decision+Systems&btitle=&rft_id=info:eric/&rft_id=info:doi/10.1080%2F12460125.2016.1187424
+N1  - <p>Accession Number: 116193235; Shrestha, Anup 1; Cater-Steel, Aileen 1; Toleman, Mark 1; Affiliations: 1: School of Management & Enterprise, University of Southern Queensland, Toowoomba, Australia; Issue Info: Jun2016 Supplement, Vol. 25, p486; Thesaurus Term: Information technology management; Thesaurus Term: Decision support systems; Thesaurus Term: Design science; Author-Supplied Keyword: decision support system; Author-Supplied Keyword: design science research method; Author-Supplied Keyword: IT service management; Author-Supplied Keyword: process assessment; Number of Pages: 14p; Document Type: Article</p>
+N1  - <p>Copyright - Copyright Taylor & Francis Ltd. 2016</p>
+N1  - <p>Last updated - 2019-06-26</p>
+N1  - <p>Name - IT Infrastructure Library; Renault SA</p>
+N1  - <p>SubjectsTermNotLitGenreText - Germany; United Kingdom--UK</p>
+KW  - Quality management
+KW  - Automation
+KW  - Software
+KW  - Information systems
+KW  - Methods
+KW  - Decision making
+KW  - Decision support systems
+KW  - Design science
+KW  - Information technology management
+KW  - Quality of service
+KW  - Analytics
+KW  - Literature reviews
+KW  - Research methodology
+KW  - Quality standards
+KW  - Process management
+KW  - Innovations
+KW  - Germany
+KW  - United Kingdom--UK
+KW  - Computers--Computer Systems
+KW  - IT service management
+KW  - design science research method
+KW  - Decision analysis
+KW  - decision support system
+KW  - Process selection
+KW  - Self evaluation
+KW  - process assessment
+ER  - 
+
+TY  - THES
+TI  - A decision model for e-procurement decision support systems for the public sector using multi-criteria decision analysis
+AU  - Adil, Mohamed
+AB  - This PhD research aims to identify, analyse and evaluate a decision model for an e-procurement Decision Support System (DSS) for the public sector in Maldives, especially focusing on the Education Sector. The DSS uses Multi-Criteria Decision Analysis (MCDA) to evaluate procurement alternatives. The features and characteristics of public sector procurement are based on major public sector principles, such as non-discrimination, equality, transparency and proportionality. This results in an organised step-by-step procedure for public sector procurement. However, this research focuses only on decisions that are based on the performances of the suppliers against a pre-set list of criteria where MCDA is applied to the evaluation. This research studied the applicability of a comprehensive set of published MCDA methods identified in the literature to the problem context. The MCDA methods used in this research involves linear weighting methods, single synthesising criterion or utility theory, outranking methods, fuzzy methods and mixed methods. This research adopted the Design Science Research (DSR) methodology, which is intended to design an artefact. The artefact in this case is the decision model. The methodology provides the artefact, explains how to use it, and how to evaluate the artefact. As these three components are of prime importance for the research project, DSR is chosen. The methodology follows a set of specific guidelines provided by Information Systems (IS) research scholars for such IS research projects. To support the process steps of the research project, literature reviews of public sector procurement and MCDA were undertaken, field research of focus groups was carried out, and selected documented data on procurement evaluations were collected for performance analysis of the MCDA methods in context. The first part of the literature review provided the requirements and constraints of the public sector procurement in general and specifically in relation to Maldivian public sector. The second part of the literature review identified MCDA methods and their procedures and characteristics. The focus group discussions were conducted with public sector procurement evaluation officials of selected education institutions, to identify operational constraints and requirements of the procurement. Criteria-based evaluation was conducted on the characteristics of MCDA methods compared to the public sector requirements gathered through literature review and focus groups. This analysis was to identify the applicable MCDA methods based on public sector requirements. The analysis filtered only two applicable methods namely, TOPSIS (Technique for Order Preference by Similarity to an Ideal Solution) and COPRAS (COmplex PRoportional ASsessment). Finally, performance analysis was done on the two methods by applying real life procurement data collected from selected public sector institutions. Congruence/incongruence analysis, variance analysis, stability analysis and MCDA were performed based on the results of the two methods, with real life data. The performance analysis shows TOPSIS having higher variance and stability over COPRAS. However, congruence/incongruence analysis was inconclusive. Based on the results of criteria-based evaluation and performance analysis, MCDA was applied on TOPSIS and COPRAS. The current public sector procurement evaluation method, weighted sum and the two filtered methods are used for MCDA on TOPSIS and COPRAS. The MCDA also resulted in favour of TOPSIS. Therefore, based on this research, the recommended decision model for the public sector e-procurement DSS for the Maldivian context is TOPSIS. The major research outputs are the identification of public sector requirements in context, the characteristics of the majority of MCDA methods in context, and strengths of performance of TOPSIS and COPRAS. In addition, the research identified the suitable decision model for the context, a theory of use of it in the context of the Public Sector of the Maldives and a framework to identify and evaluate the decision model.
+CY  - Ann Arbor
+DA  - 2015///
+PY  - 2015
+LA  - English
+M3  - Ph.D.
+PB  - University of Sheffield (United Kingdom)
+UR  - https://search.proquest.com/docview/1784060404?accountid=10218
+AN  - 1784060404
+DB  - ProQuest Dissertations & Theses A&I
+L2  - https://www.ub.uni-koeln.de/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&genre=dissertations+%26+theses&sid=ProQ:ProQuest+Dissertations+%26+Theses+A%26I&atitle=&title=A+decision+model+for+e-procurement+decision+support+systems+for+the+public+sector+using+multi-criteria+decision+analysis&issn=&date=2015-01-01&volume=&issue=&spage=&au=Adil%2C+Mohamed&isbn=&jtitle=&btitle=&rft_id=info:eric/&rft_id=info:doi/
+N1  - <p>Analyte descriptor - Bibliographic information obtained from the British Library.</p>
+N1  - <p>Copyright - Database copyright ProQuest LLC; ProQuest does not claim copyright in the individual underlying works.</p>
+N1  - <p>Last updated - 2016-10-10</p>
+KW  - Social sciences
+KW  - (UMI)AAI10074243
+KW  - 9998:No UMI subject assigned
+KW  - http://etheses.whiterose.ac.uk/7796/
+KW  - No UMI subject assigned
+KW  - Psychology--Abstracting, Bibliographies, Statistics
+ER  - 
+
+TY  - THES
+TI  - A standards-based ict framework to enable a service-oriented approach to clinical decision support
+AU  - Rodríguez Loya, Salvador
+AB  - This research provides evidence that standards based Clinical Decision Support (CDS) at the point of care is an essential ingredient of electronic healthcare service delivery. A Service Oriented Architecture (SOA) based solution is explored, that serves as a task management system to coordinate complex distributed and disparate IT systems, processes and resources (human and computer) to provide standards based CDS. This research offers a solution to the challenges in implementing computerised CDS such as integration with heterogeneous legacy systems. Reuse of components and services to reduce costs and save time. The benefits of a sharable CDS service that can be reused by different healthcare practitioners to provide collaborative patient care is demonstrated. This solution provides orchestration among different services by extracting data from sources like patient databases, clinical knowledge bases and evidence-based clinical guidelines (CGs) in order to facilitate multiple CDS requests coming from different healthcare settings. This architecture aims to aid users at different levels of Healthcare Delivery Organizations (HCOs) to maintain a CDS repository, along with monitoring and managing services, thus enabling transparency. The research employs the Design Science research methodology (DSRM) combined with The Open Group Architecture Framework (TOGAF), an open source group initiative for Enterprise Architecture Framework (EAF). DSRM's iterative capability addresses the rapidly evolving nature of workflows in healthcare. This SOA based solution uses standards-based open source technologies and platforms, the latest healthcare standards by HL7 and OMG, Decision Support Service (DSS) and Retrieve, Update Locate Service (RLUS) standard. Combining business process management (BPM) technologies, business rules with SOA ensures the HCO's capability to manage its processes. This architectural solution is evaluated by successfully implementing evidence based CGs at the point of care in areas such as; a) Diagnostics (Chronic Obstructive Disease), b) Urgent Referral (Lung Cancer), c) Genome testing and integration with CDS in screening (Lynch's syndrome). In addition to medical care, the CDS solution can benefit organizational processes for collaborative care delivery by connecting patients, physicians and other associated members. This framework facilitates integration of different types of CDS ideal for the different healthcare processes, enabling sharable CDS capabilities within and across organizations.
+CY  - Ann Arbor
+DA  - 2015///
+PY  - 2015
+LA  - EN
+M3  - Ph.D.
+PB  - University of Sussex (United Kingdom)
+UR  - https://search.proquest.com/docview/1779542616?accountid=10218
+AN  - 1779542616
+DB  - ProQuest Dissertations & Theses A&I
+L2  - https://www.ub.uni-koeln.de/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&genre=dissertations+%26+theses&sid=ProQ:ProQuest+Dissertations+%26+Theses+A%26I&atitle=&title=A+standards-based+ict+framework+to+enable+a+service-oriented+approach+to+clinical+decision+support&issn=&date=2015-01-01&volume=&issue=&spage=&au=Rodr%C3%ADguez+Loya%2C+Salvador&isbn=&jtitle=&btitle=&rft_id=info:eric/&rft_id=info:doi/
+N1  - <p>Analyte descriptor - Bibliographic information obtained from the British Library.</p>
+N1  - <p>Copyright - Database copyright ProQuest LLC; ProQuest does not claim copyright in the individual underlying works.</p>
+N1  - <p>Last updated - 2019-05-28</p>
+KW  - Social sciences
+KW  - Psychology--Abstracting, Bibliographies, Statistics
+KW  - (UMI)AAI10090420
+KW  - 9998:No ProQuest subject assigned
+KW  - http://sro.sussex.ac.uk/id/eprint/53243/
+KW  - No ProQuest subject assigned
+ER  - 
+
+TY  - THES
+TI  - Am I safe?: A Personal Safety Multicriteria Spatial Decision Support System.
+AU  - Gutierrez, Juliette
+AB  - Risk is the potential that a chosen action or inaction will lead to a loss or undesirable outcome. Research shows that being in the vicinity of certain types of facilities is riskier than with other types of facilities. Using a design science approach, the purpose of this study is to investigate how violent crime data containing time and address in combination with facility address data can be used to derive a Personal Safety Multicriteria Spatial Decision Support System to calculate a personal risk score relative to a location, date and time. Facility address data on businesses that sell alcohol, Automated Teller Machines (ATMs), shopping centers and high schools will be used in this study. A Multicriteria Evaluation Function was developed to calculate a personal risk score by combining violent crime data with multiple facility datasets. These datasets were evaluated with multiple analysis methods to derive a personal risk scale which is a range of values between a minimum and maximum personal risk score. The Multicriteria Evaluation Function was validated using historic multi-year crime data. The value of the personal risk score is calculated to be greater than or equal to the midpoint value on the personal risk scale. Findings indicate that a Multicriteria Evaluation Function, as part of a Multicriteria Spatial Decision Support System, can be a valid means for identifying personal risk as 89% of the test crime dataset have personal risk scores above the midpoint of the personal risk scale. Copies of dissertations may be obtained by addressing your request to ProQuest, 789 E. Eisenhower Parkway, P.O. Box 1346, Ann Arbor, MI 48106-1346. Telephone 1-800-521-3042; e-mail: disspub@umi.com
+LA  - English
+UR  - https://search.proquest.com/docview/1692290928?accountid=10218
+AN  - 1692290928; 201523995
+DB  - Sociological Abstracts; Sociological Abstracts
+L2  - https://www.ub.uni-koeln.de/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&genre=dissertations+%26+theses&sid=ProQ:Sociological+Abstracts&atitle=&title=Am+I+safe%3F%3A+A+Personal+Safety+Multicriteria+Spatial+Decision+Support+System.&issn=&date=2015-01-01&volume=&issue=&spage=&au=Gutierrez%2C+Juliette&isbn=9781321298765&jtitle=&btitle=&rft_id=info:eric/201523995&rft_id=info:doi/
+L2  - https://www.ub.uni-koeln.de/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&genre=dissertations+%26+theses&sid=ProQ:ProQuest+Dissertations+%26+Theses+A%26I&atitle=&title=Am+I+safe%3F%3A+A+Personal+Safety+Multicriteria+Spatial+Decision+Support+System&issn=&date=2014-01-01&volume=&issue=&spage=&au=Gutierrez%2C+Juliette&isbn=9781321298765&jtitle=&btitle=&rft_id=info:eric/&rft_id=info:doi/
+N1  - <p>CODEN - DABAA6</p>
+N1  - <p>Copyright - Database copyright ProQuest LLC; ProQuest does not claim copyright in the individual underlying works.</p>
+N1  - <p>Date revised - 2015-07-01</p>
+N1  - <p>Last updated - 2016-06-05</p>
+N1  - <p>Last updated - 2017-08-07</p>
+N1  - <p>Publication note - ProQuest, Ann Arbor MI, 2015</p>
+N1  - <p>SubjectsTermNotLitGenreText - Risk; Crime; Values; Decisions; Social Support; Machinery; High Schools</p>
+N1  - <p>SuppNotes - 106 p. Ph.D. Advisor: Hilton, Brian Edition date: 2014.</p>
+KW  - Risk
+KW  - Decision support system
+KW  - Information science
+KW  - Social sciences
+KW  - Information Technology
+KW  - Machinery
+KW  - Values
+KW  - Crime
+KW  - Decisions
+KW  - Social Support
+KW  - 0489:Information Technology
+KW  - Applied sciences
+KW  - Communication and the arts
+KW  - 0723:Information science
+KW  - 0627 Sociology, Criminology and Penology
+KW  - 0723 Information Science
+KW  - 2147: social problems and social welfare
+KW  - dissertation
+KW  - High Schools
+KW  - sociology of crime
+KW  - 0627:Criminology
+KW  - Criminology
+KW  - Multicriteria spatial decision support
+KW  - Spatial decision support system
+ER  - 
+
+TY  - JOUR
+TI  - A critical analysis of decision support systems research revisited: the rise of design science
+AU  - Arnott, David
+AU  - Pervan, Graham
+T2  - Journal of Information Technology
+AB  - In 2005 the Journal of Information Technology article, A critical analysis of decision support systems research, analyzed 1020 decision support systems (DSS) articles from 1990 to 2003. Since 2003 business intelligence (BI) and business analytics have gained popularity in practice. In theory and research the period since 2003 has seen a change in the decision-making theory orthodoxy and the codification and acceptance of design science. To investigate the changes in the DSS field, a number of expectations were derived from previous literature analyses. These expectations were assessed using bibliometric content analysis. The article sample to 2010 now includes 1466 articles from 16 journals. The analysis of the expectations yields mixed results for the DSS field. On the negative side, there has been an overall decline in DSS publishing, the relevance of DSS research published in journals to IT professionals has declined, and the rigor of DSS research designs has not improved. On the positive side, there has been improvement in relevance to managers, grant funding of DSS research has increased, there has been a positive shift in judgment and decision-making foundations, BI publishing has increased, and group support systems publishing has reduced to a more balanced level. An important result from the analysis of the last 7 years of DSS research is the significant increase in DSS design-science research (DSR) to almost half of published articles. It is clear from the analysis that DSS is undergoing a transition from a field based on statistical hypothesis testing and conceptual studies to one where DSR is the most popular method.
+DA  - 2014/12//
+PY  - 2014
+DO  - 10.1057/jit.2014.16
+VL  - 29
+IS  - 4
+SP  - 269
+EP  - 293
+LA  - English
+SN  - 02683962
+UR  - https://search.proquest.com/docview/1625293911?accountid=10218
+AN  - 1625293911
+DB  - ABI/INFORM Collection
+L2  - https://www.ub.uni-koeln.de/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=article&sid=ProQ:ProQ%3Aabiglobal&atitle=A+critical+analysis+of+decision+support+systems+research+revisited%3A+the+rise+of+design+science&title=Journal+of+Information+Technology&issn=02683962&date=2014-12-01&volume=29&issue=4&spage=269&au=Arnott%2C+David%3BPervan%2C+Graham&isbn=&jtitle=Journal+of+Information+Technology&btitle=&rft_id=info:eric/&rft_id=info:doi/10.1057%2Fjit.2014.16
+N1  - <p>Accession Number: 99463626; Arnott, David 1 Pervan, Graham 2; Affiliation:&nbsp;&nbsp;1: Monash University, Melbourne, Australia&nbsp;&nbsp;2: School of Information Systems, Curtin Business School, Curtin University, Perth, Australia; Source Info: Dec2014, Vol. 29 Issue 4, p269; Subject Term: CRITICAL analysis; Subject Term: DECISION support systems; Subject Term: DESIGN science; Subject Term: BUSINESS intelligence; Subject Term: DECISION making; Subject Term: BIBLIOMETRICS; Subject Term: INFORMATION technology industry; NAICS/Industry Codes: 541611 Administrative Management and General Management Consulting Services; Number of Pages: 25p; Document Type: Article</p>
+N1  - <p>Copyright - © Association for Information Technology Trust 2014</p>
+N1  - <p>Last updated - 2018-10-06</p>
+N1  - <p>SubjectsTermNotLitGenreText - Australia</p>
+KW  - Australia
+KW  - 2600:Management science/operations research
+KW  - Studies
+KW  - 9130:Experimental/theoretical
+KW  - Operations research
+KW  - Decision support systems
+KW  - 9179:Asia & the Pacific
+KW  - Information technology
+KW  - Content analysis
+KW  - Library And Information Sciences
+KW  - DECISION making
+KW  - DECISION support systems
+KW  - 5220:Information technology management
+KW  - DESIGN science
+KW  - BIBLIOMETRICS
+KW  - BUSINESS intelligence
+KW  - CRITICAL analysis
+KW  - INFORMATION technology industry
+ER  - 
+
+TY  - JOUR
+TI  - A Method to Select IT Service Management Processes for Improvement
+AU  - Shrestha, Anup
+AU  - Cater-Steel, Aileen
+AU  - Toleman, Mark
+AU  - Tan, Wui-Gee
+T2  - JITTA : Journal of Information Technology Theory and Application
+AB  - Although process improvement is crucial for organizations that seek quality in their operations, there is a lack of explicit guidance on how to select the critical processes to improve. We propose a structured method to guide the selection of processes for improvement in IT service management (ITSM) and designed and evaluated a decision support system (DSS) for process selection. We designed the process selection method to be theoretically grounded, have balanced business and ITSM objectives, and be supported by a DSS. We took a design science research approach to develop, demonstrate, and evaluate the process selection method and DSS. We applied task-technology fit to inform the design and explain the DSS's development and utility. We used the balanced scorecard and SERVQUAL models to structure business objectives and service gap perceptions. We conducted ex ante evaluation during the development process and interviews for an ex post qualitative evaluation. The results suggest the method is effective, valid, and useful and that it offers benefits in terms of perceived decision quality and decision efficiency. The DSS's utility was confirmed because it enabled evidence-based decision support for the process selection method. Using the proposed method, practitioners can follow a workflow for selecting critical IT service processes that need to be improved based on current business objectives and confirmed by key process stakeholders. The proposed method and the DSS prototype could form a basis for future research in defining the scope for process improvement projects in other fields.
+DA  - 2014/09//
+PY  - 2014
+VL  - 15
+IS  - 3
+SP  - 31
+EP  - 55
+LA  - English
+SN  - 15324516
+UR  - https://search.proquest.com/docview/1678577629?accountid=10218
+AN  - 1678577629
+DB  - ABI/INFORM Collection
+L2  - https://aisel.aisnet.org/jitta/vol15/iss3/3/
+L2  - https://www.ub.uni-koeln.de/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=article&sid=ProQ:ProQ%3Aabiglobal&atitle=A+Method+to+Select+IT+Service+Management+Processes+for+Improvement&title=JITTA+%3A+Journal+of+Information+Technology+Theory+and+Application&issn=15324516&date=2014-09-01&volume=15&issue=3&spage=31&au=Shrestha%2C+Anup%3BCater-Steel%2C+Aileen%3BToleman%2C+Mark%3BTan%2C+Wui-Gee&isbn=&jtitle=JITTA+%3A+Journal+of+Information+Technology+Theory+and+Application&btitle=&rft_id=info:eric/&rft_id=info:doi/
+N1  - <p>Copyright - Copyright Association for Information Systems Sep 2014</p>
+N1  - <p>Document feature - Tables; Graphs; References</p>
+N1  - <p>Last updated - 2015-05-14</p>
+KW  - 9130:Experiment/theoretical treatment
+KW  - Studies
+KW  - 5240:Software & systems
+KW  - Decision support systems
+KW  - Information technology
+KW  - Computers--Information Science And Information Theory
+KW  - Balanced Scorecard
+ER  - 
+
+TY  - JOUR
+TI  - A collective artefact design of decision support systems: design science research perspective
+AU  - Miah, Shah J
+AU  - Kerr, Don
+AU  - Hellens, Liisa von
+T2  - Information technology and people
+AB  - Purpose: The knowledge of artefact design in design science research can have an important application in the improvement of decision support systems (DSS) development research. Recent DSS literature has identified a significant need to develop user-centric DSS method for greater relevance with respect to context of use. The purpose of this paper is to develop a collective DSS design artefact as method in a practical industry context. Design/methodology/approach: Under the influence of goal-directed interaction design principles the study outlines the innovative DSS artefact based on design science methodology to deliver a cutting-edge decision support solution, which provides user-centric provisions through the use of design environment and ontology techniques. Findings: The DSS artefact as collective information technology applications through the application of design science knowledge can effectively be designed to meet decision makers' contextual needs in an agricultural industry context. Research limitations/implications: The study has limitations in that it was developed in a case study context and remains to be fully tested in a real business context. It is also assumed that the domain decisions can be parameterised and represented using a constraint programming language. Practical implications: The paper concludes that the DSS artefact design and this development successfully overcomes some of the limitations of traditional DSS such as low-user uptake, system obsolescence, low returns on investment and a requirement for continual re-engineering effort. Social implications: The design artefact has the potential of increasing user uptake in an industry that has had relevancy problems with past DSS implementation and has experienced associated poor uptake. Originality/value:  The design science paradigm provides structural guidance throughout the defined process, helping ensure fidelity both to best industry knowledge and to changing user contexts.
+DA  - 2014///
+PY  - 2014
+VL  - 27
+IS  - 3
+SP  - 259
+EP  - 279
+LA  - English
+SN  - 0959-3845, 0959-3845
+UR  - https://search.proquest.com/docview/1698956205?accountid=10218
+AN  - 1698956205; 4692736
+DB  - International Bibliography of the Social Sciences (IBSS)
+L2  - https://www.ub.uni-koeln.de/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=article&sid=ProQ:ProQ%3Aabiglobal&atitle=A+collective+artefact+design+of+decision+support+systems%3A+design+science+research+perspective&title=Information+Technology+%26+People&issn=09593845&date=2014-07-01&volume=27&issue=3&spage=259&au=Miah%2C+Shah+J%3BKerr%2C+Don%3BLiisa+von+Hellens&isbn=&jtitle=Information+Technology+%26+People&btitle=&rft_id=info:eric/&rft_id=info:doi/10.1108%2FITP-04-2012-0041
+L2  - https://www.ub.uni-koeln.de/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=article&sid=ProQ:ProQ%3Aibss&atitle=A+collective+artefact+design+of+decision+support+systems%3A+design+science+research+perspective&title=Information+technology+and+people&issn=09593845&date=2014-01-01&volume=27&issue=3&spage=259&au=Miah%2C+Shah+J%3BKerr%2C+Don%3BHellens%2C+Liisa+von&isbn=&jtitle=Information+technology+and+people&btitle=&rft_id=info:eric/4692736&rft_id=info:doi/
+N1  - <p>Copyright - © Emerald Group Publishing Limited 2014</p>
+N1  - <p>Date revised - 2015-07-27</p>
+N1  - <p>Last updated - 2015-07-27</p>
+N1  - <p>Last updated - 2018-08-28</p>
+N1  - <p>SubjectsTermNotLitGenreText - 6538 6515 12622; 8938; 7073; 3322 6071 1542 11325; 1304 7805 3198 1077; 10919</p>
+KW  - Ontology
+KW  - Systems development
+KW  - Decision making
+KW  - Problems
+KW  - Decision support systems
+KW  - Economics
+KW  - Information technology
+KW  - Programming languages
+KW  - Design research
+KW  - Knowledge
+KW  - Research methods
+KW  - Domain knowledge
+KW  - Library And Information Sciences--Computer Applications
+KW  - Design engineering
+KW  - Artifacts
+KW  - End user
+KW  - Obsolescence
+KW  - Reengineering
+ER  - 
+
+TY  - THES
+TI  - A Decision Support System for Software Project Risk Management A Three-Essay Dissertation
+AU  - El-Masri, Mazen
+AB  - In the information systems (IS) literature, software project risk is frequently described as a key detriment to project success. Important advances in IS research include the identification of risk factors that are negatively associated with project success as well as management practices that mitigate their effects. More recently, exploratory studies revealed that risk is more intricate than previously thought due to the dynamic interactions between risk components. Yet, there is no theoretical framework to explain such interactions. Moreover, software that practitioners use to help identify and manage risk is not tailored to address such particularities of software project risk.    Accordingly, this dissertation takes a design science approach to articulate the design principles of a software project risk management system that accounts for the dynamic interrelations between risk components. Two constructs – software project risk and software project success – are essential to our study. However, the IS literature presents diverse conceptualizations of both constructs which merits their reexamination. Accordingly, the project success construct was reconceptualized and specified in the first article. Both the process and stakeholder’s perspectives were adopted to synthesize 23 years of relevant IS literature (1990-2012). Our analysis resulted in a success construct specified as the combination of the successes of three core processes (development, implementation, and assimilation) and their associated outcomes (product, organizational, and business) as perceived by the different project stakeholder groups.     The software project risk construct was specified in the second article. A comprehensive conceptualization that distinguishes the construct’s dimensions and how they interrelate was required to allow for the discovery of interactions between risk components. Therefore, we made use of 23 years of software project risk literature (1990- 2012) to develop a risk construct that integrates the extant conceptualizations. Semantic analysis was performed on existing risk definitions and other descriptive texts from the IS literature. This analysis allowed us to distinguish four risk dimensions – project traits, undesirable events, risk management practices, and expected outcomes – and understand how they relate to one another. Accordingly, we conceptualized risk as residual risk and define it as the conditional probability of deviation from expected outcomes given that available management practices are considered. To provide support for the proposed residual risk construct, we developed and evaluated a causal model that reflects the construct’s internal structure and the relationships between its components. To this end, a case survey of 82 software project cases was conducted. The coding scheme was specified with a panel of experts who helped reclassify existing project risk operationalizations according to the dimensions of the proposed construct. The resulting dataset was analyzed with PLS providing support for the construct’s structure.    In the third article, we use the findings from the first two articles to specify the design principles of a software project risk management system that accounts for the dynamic interactions among the different components of risk. To be able to detect the components’ interactions, the risk construct specified in the second article was refined further by dissecting its dimensions into subcomponents. A case survey was conducted to observe patterns of interplay among risk components which were then interpreted to derive the IT artifact’s design principles. We used simulation software to develop a prototype of an IT-artifact that expresses the proposed design principles. To assess the validity and utility of the IT artifact, it was used in an intervention in the risk management of a software implementation project in a real organizational setting. The IT artifact was also validated by simulating risk scenarios of three software project cases and contrasting its results with the realities described in the cases. The results show that an IT artifact that conforms to the proposed design principles provided actual risk analysis and decision support.Alternate abstract:
+Dans la recherche sur les systèmes d'information (SI), les risques liés aux projets de développement de systèmes sont souvent écrits comme un obstacle central à la réussite du projet. Les progrès importants en recherche SI comprennent l'identification des facteurs de risque inhibant la réussite des projets, ainsi que des pratiques de gestion qui en restreignent les effets. Récemment, des études exploratoires ont révélé des risques plus complexes que ce qui était estimé auparavant à cause des interactions dynamiques de leurs composantes. Pourtant, il n'y a pas de cadre théorique expliquant ces interactions. De plus, les outils logiciels dont disposent les praticiens pour identifier et gérer les risques des projets SI ne sont pas ajustés à ces particularités. Par conséquent, cette thèse adopte une approche relevant de la science du design afin de définir les principes de conception d'un système d'aide à la gestion du risque des projets SI qui suive les interactions dynamiques des composantes du risque. Deux construits sont ici essentiels : le risque de projet SI et sa réussite. La littérature SI offre cependant diverses conceptualisations de ces deux construits, ce qui mérite d'être reconsidéré. Ainsi, le premier essai visait à proposer une conceptualisation claire du construit de réussite de projet. La littérature publiée entre 1990 et 2012, portant sur la réussite de projets a été analysée selon deux dimensions : les processus constituant un projet SI et les parties prenantes au projet. Notre analyse a résulté en un construit  constitué de l'arrimage de la réussite de chacun de trois processus centraux (développement, mise en œuvre, et assimilation) et de leurs conséquences (de production, d'organisation, et d'affaires) telles que perçues par les différentes parties prenantes.
+CY  - Ann Arbor
+DA  - 2013///
+PY  - 2013
+SP  - 281
+LA  - English
+M3  - Ph.D.
+PB  - HEC Montreal (Canada)
+UR  - https://search.proquest.com/docview/2012370938?accountid=10218
+AN  - 2012370938
+DB  - ProQuest Dissertations & Theses A&I
+L2  - https://www.ub.uni-koeln.de/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&genre=dissertations+%26+theses&sid=ProQ:ProQuest+Dissertations+%26+Theses+A%26I&atitle=&title=A+Decision+Support+System+for+Software+Project+Risk+Management+A+Three-Essay+Dissertation&issn=&date=2013-01-01&volume=&issue=&spage=&au=El-Masri%2C+Mazen&isbn=9780355495331&jtitle=&btitle=&rft_id=info:eric/&rft_id=info:doi/
+N1  - <p>Copyright - Database copyright ProQuest LLC; ProQuest does not claim copyright in the individual underlying works.</p>
+N1  - <p>Last updated - 2018-03-20</p>
+KW  - Simulation
+KW  - Design science
+KW  - Information Technology
+KW  - 0489:Information Technology
+KW  - Applied sciences
+KW  - Software project residual risk
+KW  - Software project risk management
+KW  - Software project success
+ER  - 
+
+TY  - JOUR
+TI  - Design Science in Decision Support Systems Research: An Assessment using the Hevner, March, Park, and Ram Guidelines
+AU  - Arnott, David
+AU  - Pervan, Graham
+T2  - Journal of the Association for Information Systems
+AB  - Design science has been an important strategy in decision support systems (DSS) research since the field's inception in the early 1970s. Recent reviews of DSS research have indicated a need to improve its quality and relevance. DSS design-science research has an important role in this improvement because design-science research can engage industry and the profession in intellectually important projects. The Hevner, March, Park, and Ram's (HMPR) guidelines for the conduct and assessment of information systems design-science research, published in MIS Quarterly in 2004, provides a vehicle for assessing DSS design-science research. This paper presents research that used bibliometric content analysis to apply the HMPR guidelines to a representative sample of 362 DSS design-science research papers in 14 journals. The analysis highlights major issues in DSS research that need attention: research design, evaluation, relevance, strategic focus, and theorizing. [PUBLICATION ABSTRACT]
+DA  - 2012/11//
+PY  - 2012
+VL  - 13
+IS  - 11
+SP  - 923
+EP  - 949
+LA  - English
+SN  - 15369323
+UR  - https://search.proquest.com/docview/1418397375?accountid=10218
+AN  - 1418397375
+DB  - ABI/INFORM Collection
+L2  - https://aisel.aisnet.org/jais/vol13/iss11/1/
+L2  - https://www.ub.uni-koeln.de/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=article&sid=ProQ:ProQ%3Aabiglobal&atitle=Design+Science+in+Decision+Support+Systems+Research%3A+An+Assessment+using+the+Hevner%2C+March%2C+Park%2C+and+Ram+Guidelines&title=Journal+of+the+Association+for+Information+Systems&issn=15369323&date=2012-11-01&volume=13&issue=11&spage=923&au=Arnott%2C+David%3BPervan%2C+Graham&isbn=&jtitle=Journal+of+the+Association+for+Information+Systems&btitle=&rft_id=info:eric/&rft_id=info:doi/
+N1  - <p>Accession Number: 87717507; Arnott, David 1; Email Address: david.arnott@monash.edu; Pervan, Graham 2; Email Address: graham.pervan@cbs.curtin.edu.au; Affiliations: 1: Monash University; 2: Curtin University; Issue Info: Nov2012, Vol. 13 Issue 11, p923; Thesaurus Term: Design science; Thesaurus Term: Decision support systems; Subject Term: Bibliometrics; Subject Term: Content analysis; Subject Term: Periodical articles; Author-Supplied Keyword: Business Intelligence; Author-Supplied Keyword: Data Warehousing; Author-Supplied Keyword: Decision Support Systems; Author-Supplied Keyword: Design Science; Author-Supplied Keyword: Executive Information Systems; Author-Supplied Keyword: Group Support Systems; Author-Supplied Keyword: Review; Number of Pages: 27p; Illustrations: 15 Charts; Document Type: Article</p>
+N1  - <p>Copyright - Copyright Association for Information Systems Nov 2012</p>
+N1  - <p>Document feature - Tables; References</p>
+N1  - <p>Last updated - 2013-08-08</p>
+N1  - <p>SubjectsTermNotLitGenreText - Australia</p>
+KW  - Australia
+KW  - 9130:Experiment/theoretical treatment
+KW  - Studies
+KW  - 5240:Software & systems
+KW  - Decision support systems
+KW  - 9179:Asia & the Pacific
+KW  - Design science
+KW  - Content analysis
+KW  - Computers--Information Science And Information Theory
+KW  - Business Intelligence
+KW  - Design Science
+KW  - Business intelligence software
+KW  - Executive information systems
+KW  - Review
+KW  - Bibliometrics
+KW  - Decision Support Systems
+KW  - Data Warehousing
+KW  - Executive Information Systems
+KW  - Group Support Systems
+KW  - Periodical articles
+ER  - 
+
+TY  - JOUR
+TI  - A socio-technical approach to designing and evaluating industry oriented applications
+AU  - Miah, Shah Jahan
+AU  - Gammack, John G
+AU  - Kerr, Don V
+T2  - Electronic journal of information systems evaluation
+AB  - Over the past few years many views have emerged that maximize the utilization of design research in Information Systems (IS) application development. A recent insightful debate in the IS community has suggested two major design views in IS research: a) a pragmatic technical artifact orientation, and b) a theory-grounded user and meta-artifact focus. The first (pragmatic design-based) view focuses on explicit knowledge and on a step-by-step methodology for innovative artifact design and building. The second (theory-grounded) view more broadly emphasizes meta-artifact design in IS development and a more prescriptive guidance approach that is grounded in design research. The debate between these two views leads to the question: which method is more s uitable for Decision Support System (DSS) design? In extending the debate on design views in IS research, this paper evaluates a DSS application through both the utility of the pragmatic and the socio-technical design research views. This helps create a methodological foundation for industry-oriented DSS design and evaluation. The findings suggest that both positions have merit, but the latter view of design science is more suitable for industry-oriented DSS design.
+DA  - 2012/07//
+PY  - 2012
+VL  - 15
+IS  - 2
+SP  - 163
+EP  - 175
+LA  - English
+SN  - 1566-6379, 1566-6379
+UR  - https://search.proquest.com/docview/1124749586?accountid=10218
+AN  - 1124749586; 4357275
+DB  - International Bibliography of the Social Sciences (IBSS)
+L2  - https://www.ub.uni-koeln.de/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=article&sid=ProQ:ProQ%3Aibss&atitle=A+socio-technical+approach+to+designing+and+evaluating+industry+oriented+applications&title=Electronic+journal+of+information+systems+evaluation&issn=15666379&date=2012-07-01&volume=15&issue=2&spage=163&au=Miah%2C+Shah+Jahan%3BGammack%2C+John+G%3BKerr%2C+Don+V&isbn=&jtitle=Electronic+journal+of+information+systems+evaluation&btitle=&rft_id=info:eric/4357275&rft_id=info:doi/
+L2  - https://www.ub.uni-koeln.de/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=article&sid=ProQ:ProQ%3Aabiglobal&atitle=A+Socio-technical+Approach+to+Designing+and+Evaluating+Industry+Oriented+Applications&title=Electronic+Journal+of+Information+Systems+Evaluation&issn=&date=2012-07-01&volume=15&issue=2&spage=163&au=Miah%2C+Shah+Jahan%3BGammack%2C+John+G%3BKerr%2C+Don+V&isbn=&jtitle=Electronic+Journal+of+Information+Systems+Evaluation&btitle=&rft_id=info:eric/&rft_id=info:doi/
+N1  - <p>Accession Number: 87403883; Miah, Shah Jahan 1; Email Address: smiah@usc.edu.au; Gammack, John G. 2; Email Address: j.gammack@murdoch.edu.au; Kerr, Don V. 1; Email Address: dkerr@usc.edu.au; Affiliations: 1: University of the Sunshine Coast, Queensland, Australia; 2: Murdoch University, Perth, Australia; Issue Info: Jul2012, Vol. 15 Issue 2, p163; Thesaurus Term: Information storage & retrieval systems; Thesaurus Term: Knowledge management; Thesaurus Term: Decision support systems; Thesaurus Term: Industrial management; Thesaurus Term: Technological innovations; Subject Term: Design research; Author-Supplied Keyword: DSS; Author-Supplied Keyword: Socio-technical view; Number of Pages: 13p; Document Type: Article</p>
+N1  - <p>Copyright - Copyright Academic Conferences International Limited Jul 2012</p>
+N1  - <p>Date revised - 2013-06-12</p>
+N1  - <p>Document feature - Tables; References</p>
+N1  - <p>Last updated - 2012-09-04</p>
+N1  - <p>Last updated - 2013-09-16</p>
+N1  - <p>SubjectsTermNotLitGenreText - 6537 6515; 3483; 7073; 7994; 3320 6071 1542 11325; 2603</p>
+N1  - <p>SubjectsTermNotLitGenreText - Australia</p>
+N1  - <p>SuppNotes - Open access; Online only</p>
+KW  - Development
+KW  - Design
+KW  - Australia
+KW  - Community
+KW  - Technological innovations
+KW  - Information systems
+KW  - Knowledge management
+KW  - Systems development
+KW  - Problem solving
+KW  - 9130:Experiment/theoretical treatment
+KW  - Studies
+KW  - 5240:Software & systems
+KW  - Decision support systems
+KW  - Business And Economics
+KW  - 9179:Asia & the Pacific
+KW  - Economics
+KW  - Information storage & retrieval systems
+KW  - Performance evaluation
+KW  - DSS
+KW  - Design research
+KW  - Knowledge
+KW  - Methodology
+KW  - Industrial management
+KW  - Decision
+KW  - Socio-technical view
+ER  - 
+
+TY  - THES
+TI  - Research on the decision model of automobile conceptual design based on the theory of data mining
+AU  - Yang, Chun Ying
+AB  - Translation from original language as provided by authorAutomobile conceptual design is a complex decision full of innovation, multi-solution approximation, experience, integration, which is a crucial phrase in automobile design. Research on the decision model of automobile conceptual design based on the theory of data mining effectively embedded data mining, artificial intelligence and the product conceptual design theory and technology, which is a necessary means to provide decision support for conceptual design and also is an urgent problem to be resolved in mechanical and automobile industry of China. This study first analyzes today's challenges and problems that automobile manufacturers are facing,and the problems encountered in the automotive design process. Illustrating the purpose and meaning of automobile conceptual design. Second, it analyzes the related fields' concepts, including contents and methods design features of automobile conceptual design and knowledge of data mining theory etc; Finally, establishing the decision-making model of automobile design. Achieving the solution decision-making model through data mining and decision tree algorithms In this study, automobile conceptual design is taken as a combined research field and the method of QUNIT model in this domain is studied on. Being armed at the characters of variant design for complex automobile conceptual design, Establishing automobile design model,using data mining methods and decision tree algorithm to solve this problem,establishing model and solution algorithm for decision-making model of automobile design established by this study,the program results and successful automobile models in the database is insignificant,it shows the higher accuracy of the algorithm.and the matching performance is better.This paper makes a deep study in automobile conceptual design based on decision tree algorithm.Finally getting a good clustering result and gaining the knowledge rules through the decision tree clustering algorithm.These proved the successful in automobile conceptual design based on cluster analysis method--decision tree This study realizes the system development of decision support system to support decision-making program and provides our customers'customization convenient and efficient design based on the overall framework of automobile design. Key words: data mining; conceptual design;decision model; cluster
+CY  - Ann Arbor
+DA  - 2011///
+PY  - 2011
+LA  - ZH
+M3  - Master
+PB  - Wuhan University of Technology (People's Republic of China)
+UR  - https://search.proquest.com/docview/1874909627?accountid=10218
+AN  - 1874909627
+DB  - ProQuest Dissertations & Theses A&I
+L2  - https://www.ub.uni-koeln.de/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&genre=dissertations+%26+theses&sid=ProQ:ProQuest+Dissertations+%26+Theses+A%26I&atitle=&title=Research+on+the+decision+model+of+automobile+conceptual+design+based+on+the+theory+of+data+mining&issn=&date=2011-01-01&volume=&issue=&spage=&au=Yang%2C+Chun+Ying&isbn=&jtitle=&btitle=&rft_id=info:eric/&rft_id=info:doi/
+N1  - <p>Copyright - Database copyright ProQuest LLC; ProQuest does not claim copyright in the individual underlying works.</p>
+N1  - <p>Last updated - 2017-03-07</p>
+KW  - Automotive engineering
+KW  - Applied sciences
+KW  - (UMI)AAI10497590
+KW  - 0540:Automotive engineering
+ER  - 
+
+TY  - THES
+TI  - Hubei provincial water resources data management system design
+AU  - Xu, Qiong
+AB  - Translation from original language as provided by authorWater resources information management is the important prerequisite for implementing the three "red lines" and establishing the strict water resources management system. To build up Hubei provincial water resources data management system is not only the solid foundation for realizing the modernzation of water resources management but also the necessity of the social development trend. The thesis,combining the neccessory damands of the establishment of Hubei provincial water resources data management system with comprehensive management practice related to collection,storage,analysis,Scheduling and decision-making and emergency operations,and Relaying on the wide area network(WAN) of hubei conservancy(flood control),discusses a overall design research of Hubei provincial water resources data management system through the data processing and storage system design, application support platform design and application system design. The research thesis is of significance for improvement in the construction of Hubei provincial water resources data management system, the development and implementation of various water related information resources, the growth in the utilization ratio of water information and advance in the modernization level of it, which is valuable for the theoretical research in this field. Focusing on the complexity of monitoring water resources in this system, multi-sources and inconsistencies of hydrology, water quality and social economic data, diversity and terminal distribution uniformity of computer network users, and various network securities such as vulnerable to viruses, hackers, or malicious software violations, the thesis adopt hydrology and water resources science, systems analysis, computer information management and other comprehensive technology, through the analysis of the demand of management information system, and puts forward adding water monitoring plan which makes water monitoring range cover all waterhead areas, scale water inlets, thermal power water inlet, mainly into the river drainage outlet, water area and administrative boundaries, thus expanding basic water resources information collection source. Meanwhile, The water quality laboratories in municipal construction enables to improve its monitoring capacity, ensure accurate information from the water quantity, water quality of monitoring stations. And through configuration of mobile laboratory, the system can improve emergency monitoring capabilities, gets timely sudden water pollution information. The system will open timely data which customers express on the water resources information and continue to do daily operations on it through timely transmission of all kinds of monitoring data to central database,effective classification of data by processing and storage system,efficient visits. Besides,according to these timely data reflecting needs of watehead areas,getting water and drainage, the thesis proposed water resources management decision support system for analysis, prediction and imitation of trends of water resources. These will better guide to business management, putting more expectations on monitoring information service,thus effective management of data
+CY  - Ann Arbor
+DA  - 2011///
+PY  - 2011
+LA  - ZH
+M3  - Master
+PB  - Wuhan University (People's Republic of China)
+UR  - https://search.proquest.com/docview/1874458897?accountid=10218
+AN  - 1874458897
+DB  - ProQuest Dissertations & Theses A&I
+L2  - https://www.ub.uni-koeln.de/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&genre=dissertations+%26+theses&sid=ProQ:ProQuest+Dissertations+%26+Theses+A%26I&atitle=&title=Hubei+provincial+water+resources+data+management+system+design&issn=&date=2011-01-01&volume=&issue=&spage=&au=Xu%2C+Qiong&isbn=&jtitle=&btitle=&rft_id=info:eric/&rft_id=info:doi/
+N1  - <p>Copyright - Database copyright ProQuest LLC; ProQuest does not claim copyright in the individual underlying works.</p>
+N1  - <p>Last updated - 2017-03-06</p>
+KW  - Mechanical engineering
+KW  - Applied sciences
+KW  - (UMI)AAI10479696
+KW  - 0548:Mechanical engineering
+ER  - 
+
+TY  - JOUR
+TI  - Senior Executive Information Behaviors and Decision Support1
+AU  - Arnott, David
+T2  - Journal of Decision Systems
+AB  - Business intelligence (BI) is currently a high priority for chief information officers (CIOs) and is a major growth area of business IT. BI systems are the IT-based systems that have the greatest impact on organizational strategy. Unfortunately, BI projects are subject to high failure rates and those that are implemented suffer from a utilization problem where only 10 to 20% of intended users actually use the systems. Most decision support systems (DSS) and BI research and practice treats managers as a homogenous group, but management research reports differences between senior executives and other levels of management, and individual differences between managers. This is a significantly more complex development environment than that assumed by current DSS and BI research. There are no specialist methods for analyzing the decision support requirements of senior executives. This paper discusses the rationale and design of a design-science research project that aims to develop and test such a method. The method will be based on a sound understanding of senior executive information behaviors. [PUBLICATION ABSTRACT]
+DA  - 2010///
+PY  - 2010
+VL  - 19
+IS  - 4
+SP  - 465
+EP  - 480
+LA  - English
+SN  - 12460125
+UR  - https://search.proquest.com/docview/850840081?accountid=10218
+AN  - 850840081
+DB  - ABI/INFORM Collection
+L2  - https://www.ub.uni-koeln.de/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=article&sid=ProQ:ProQ%3Aabiglobal&atitle=Senior+Executive+Information+Behaviors+and+Decision+Support1&title=Journal+of+Decision+Systems&issn=12460125&date=2010-10-01&volume=19&issue=4&spage=465&au=Arnott%2C+David&isbn=&jtitle=Journal+of+Decision+Systems&btitle=&rft_id=info:eric/&rft_id=info:doi/
+N1  - <p>Copyright - Copyright Lavoisier 2010</p>
+N1  - <p>Document feature - References; Diagrams; Tables</p>
+N1  - <p>Last updated - 2014-10-04</p>
+KW  - Methods
+KW  - Decision making
+KW  - Studies
+KW  - Behavior
+KW  - Research & development--R&D
+KW  - Computers--Computer Systems
+KW  - Chief executive officers
+KW  - Management decisions
+KW  - Sales presentations
+ER  - 
+
+TY  - THES
+TI  - The Impact of Affect on Assessment of Group Decision Support Systems
+AU  - Sadaghianizadeh, Amir
+AB  - This thesis discusses the role of affect in users' assessment of a collaborative system. A web-based multi-attribute group decision support system (iMade) is developed that is characterized by both its adaptability for a variety of decision-making situations, and the resulted utility due to applying design science principles in constructing this artifact. We present findings of a controlled experiment designed to assess influence of affect and various other factors on adoption of information systems using a research model based on Technology Acceptance Model (TAM). Although many researchers have extended the TAM model and studied various antecedents of using that system, no one has systematically studied the effect of group members' behavior and their interaction with one another on the evaluation of the system that they are engaged in. It is hypothesized that the system features by themselves are not the sole factors that affect the users' perception and their intention to use it; but, group interactions play an important role in the user's perceptions of the system (Etezadi-Amoli and Kersten, 2008, Etezadi, 2010). To test this phenomenon, a group decision problem was developed and an experiment was carried out using the iMade system. Thirty subjects assumed the role of three groups of stakeholders and negotiated along with two experimenters as a group, with the task of purchasing a fleet of taxicab; the experimenters were required to induce either positive or negative affect within the group. Analysis of the data clearly shows that group affect significantly influences users evaluation of the system.
+CY  - Ann Arbor
+DA  - 2010///
+PY  - 2010
+SP  - 104
+LA  - English
+M3  - M.Sc.
+PB  - Concordia University (Canada)
+UR  - https://search.proquest.com/docview/807621508?accountid=10218
+AN  - 807621508
+DB  - ProQuest Dissertations & Theses A&I
+L2  - https://www.ub.uni-koeln.de/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&genre=dissertations+%26+theses&sid=ProQ:ProQuest+Dissertations+%26+Theses+A%26I&atitle=&title=The+Impact+of+Affect+on+Assessment+of+Group+Decision+Support+Systems&issn=&date=2010-01-01&volume=&issue=&spage=&au=Sadaghianizadeh%2C+Amir&isbn=9780494671498&jtitle=&btitle=&rft_id=info:eric/&rft_id=info:doi/
+N1  - <p>Copyright - Database copyright ProQuest LLC; ProQuest does not claim copyright in the individual underlying works.</p>
+N1  - <p>Last updated - 2016-03-10</p>
+KW  - Social sciences
+KW  - Management
+KW  - Information Technology
+KW  - 0489:Information Technology
+KW  - Applied sciences
+KW  - 0454:Management
+ER  - 
+
+TY  - JOUR
+TI  - Learning-enhanced adaptive DSS: a Design Science perspective
+AU  - Piramuthu, Selwyn
+AU  - Shaw, Michael J
+T2  - Information Technology and Management
+AB  - Issue Title:  Special Issue: ICISTM-07, Guest Editors:  Kamna Malik and Anurag Agarwal; Special Issue: WAID-07 (Vol.-I), Guest Editors: Wei Jiang and Anurag Agarwal
+
+
+The process of acquiring, maintaining, updating, and using appropriate domain-specific knowledge has played an integral role in knowledge-based decision support systems. Although each of these stages is necessary and important, knowledge-based systems that operate in dynamic environments can become quickly stale when core knowledge embedded in these systems are not continually updated to reflect changes in the system over time. Clearly, stale knowledge could be faulty and cannot be relied upon for making decisions and a knowledge-based decision support system with stale knowledge may even be detrimental in the long run. We consider a generic adaptive DSS framework with learning capabilities that continually monitors itself for possible deficit in the knowledge-base, expired or stale knowledge already present in the knowledge-base, and availability of new knowledge from the environment. The knowledge-base is updated through incremental learning. We illustrate the generic knowledge-based adaptive DSS framework using examples from three different application areas. The framework is flexible in being able to be modified or extended to accommodate the idiosyncrasies of the application of interest. The framework considered is an example artifact that naturally satisfies the Design Science perspective. [PUBLICATION ABSTRACT]
+DA  - 2009/03//
+PY  - 2009
+DO  - 10.1007/s10799-008-0045-y
+VL  - 10
+IS  - 1
+SP  - 41
+EP  - 54
+LA  - English
+SN  - 1385951X
+UR  - https://search.proquest.com/docview/194459091?accountid=10218
+AN  - 194459091
+DB  - ABI/INFORM Collection
+L2  - https://www.ub.uni-koeln.de/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=article&sid=ProQ:ProQ%3Aabiglobal&atitle=Learning-enhanced+adaptive+DSS%3A+a+Design+Science+perspective&title=Information+Technology+and+Management&issn=1385951X&date=2009-03-01&volume=10&issue=1&spage=41&au=Piramuthu%2C+Selwyn%3BShaw%2C+Michael+J&isbn=&jtitle=Information+Technology+and+Management&btitle=&rft_id=info:eric/&rft_id=info:doi/10.1007%2Fs10799-008-0045-y
+N1  - <p>Accession Number: 36810181; Piramuthu, Selwyn 1; Email Address: selwyn@ufl.edu Shaw, Michael J. 2; Affiliation:&nbsp;&nbsp;1: University of Florida, Gainesville, FL, USA&nbsp;&nbsp;2: University of Illinois at Urbana-Champaign, Urbana, IL, USA; Source Info: Mar2009, Vol. 10 Issue 1, p41; Subject Term: DECISION support systems; Subject Term: MANAGEMENT information systems; Subject Term: TELEMATICS; Subject Term: DATA mining; Subject Term: DECISION theory; Subject Term: DESIGN; Author-Supplied Keyword: Adaptive DSS; Author-Supplied Keyword: Design Science; Author-Supplied Keyword: Knowledge-based systems; Number of Pages: 14p; Illustrations: 7 Diagrams, 3 Charts; Document Type: Article</p>
+N1  - <p>Copyright - Springer Science+Business Media, LLC 2009</p>
+N1  - <p>Document feature - Diagrams; Tables; References</p>
+N1  - <p>Last updated - 2014-08-30</p>
+KW  - Expert systems
+KW  - Decision making
+KW  - 2600:Management science/operations research
+KW  - Studies
+KW  - 9130:Experimental/theoretical
+KW  - 5240:Software & systems
+KW  - Decision support systems
+KW  - Information technology
+KW  - DECISION support systems
+KW  - DATA mining
+KW  - Design Science
+KW  - DESIGN
+KW  - Adaptive DSS
+KW  - Business And Economics--Office Equipment And Services
+KW  - DECISION theory
+KW  - Knowledge-based systems
+KW  - MANAGEMENT information systems
+KW  - TELEMATICS
+ER  - 
+
+TY  - THES
+TI  - A multidimensional and visual exploration approach to project portfolio management
+AU  - Zheng, Guangzhi
+AB  - Managing projects in an organization, especially a project-oriented organization, is a challenging task. Project data has a large volume and is complex to manage. It is different from managing a single project, because one needs to integrate and synthesize information from multiple projects and multiple perspectives for high-level strategic business decisions, such as aligning projects with business objectives, balancing investment and expected return, and allocating resources. Current methods and tools either do not well integrate multiple aspects or are not intuitive and easy to use for managers and executives. In this dissertation project, a multidimensional and visual exploration approach was designed and evaluated to provide a unique and intuitive option to support decision making in project portfolio management. The research followed a general design science research methodology involving phases of awareness of problem, suggestion, development, evaluation and conclusion. The approach was implemented into a software system using a prototyping method and was evaluated through user interviews. The evaluation result demonstrates the utility and ease-of-use of the approach, and confirms design objectives. The research brings a new perspective and provides a new decision support tool for project portfolio management. It also contributes to the design knowledge of visual exploration systems for business portfolio management by theorizing the system.
+CY  - Ann Arbor
+DA  - 2009///
+PY  - 2009
+SP  - 218
+LA  - English
+M3  - Ph.D.
+PB  - Georgia State University
+UR  - https://search.proquest.com/docview/304884364?accountid=10218
+AN  - 304884364
+DB  - ABI/INFORM Collection; ProQuest Dissertations & Theses A&I
+L2  - https://www.ub.uni-koeln.de/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&genre=dissertations+%26+theses&sid=ProQ:ABI%2FINFORM+Global&atitle=&title=A+multidimensional+and+visual+exploration+approach+to+project+portfolio+management&issn=&date=2009-01-01&volume=&issue=&spage=&au=Zheng%2C+Guangzhi&isbn=9781109126716&jtitle=&btitle=&rft_id=info:eric/&rft_id=info:doi/
+N1  - <p>Copyright - Database copyright ProQuest LLC; ProQuest does not claim copyright in the individual underlying works.</p>
+N1  - <p>Last updated - 2016-05-29</p>
+KW  - Decision support system
+KW  - Information science
+KW  - Studies
+KW  - Information visualization
+KW  - Social sciences
+KW  - Management
+KW  - Design science research
+KW  - Communication and the arts
+KW  - 0723:Information science
+KW  - 0454:Management
+KW  - Multidimensional information
+KW  - Portfolio management
+KW  - Project portfolio management
+KW  - Visual exploration
+KW  - Visual information exploration
+ER  - 
+
+TY  - THES
+TI  - Knowledge level modeling for systemic risk management in financial institutions
+AU  - Ye, Kang
+AB  - Translation from original language as provided by authorThe subprime mortgage crisis is an ongoing economic problem characterized by contracted liquidity in the global credit markets and banking system. Many banks, real estate investment trusts (REIT), and hedge funds have suffered significant losses as a result of mortgage payment defaults or mortgage asset devaluation. The current subprime mortgage crisis is a typical case for systemic risk in financial institutions. Systemic risk refers to the risk or probability of breakdown (losses) in individual parts of components and is evidenced by co-movements (correlation) among most or all parts. Many factors contribute to the complexity of the systemic risk management (SRM) in financial institutions at modern society, e.g. financial innovations. So as mentioned by Nobel laureate, Dr. A. Michael Spence, an important challenge in going forward is to better understand these dynamics and complexities of SRM in financial institutions as the analytical underpinning of an early warning system with respect to financial instability. The objective of this thesis is to fill this gap. Knowledge based technologies have been used considerably to solve complex problems during the last few decades. In order to further our understanding and communication about SRM in financial institutions, this thesis proposes a knowledge level model (KLM) for systemic risk management in financial institutions. As first proposed by Newell, the main focus of KLM is to capture and represent knowledge without paying more attention to implementation. There are two parts considered in the proposed KLM are: ontologies and problem solving method (PSM). Ontologies are adopted to represent a knowledge base of KLM, which integrates top level ontology and domain level ontologies. And then the problem solving method is given to show the reasoning process of this knowledge. Further, the details of domain level ontologies for SRM, the focus of which is the contagion effect of systemic risk, are also discussed in this thesis. Three categories of ontologies, including static ontology, dynamic ontology, and social ontology are developed to deal with different perspectives in this domain. The symbol level of KLM is also discussed which integrates OWL, SWRL and JESS. Further, two financial cases are provided to illustrate how proposed KLM is used in financial institutions, including the LTCM case in 1998 and Lehman Brother's minibonds case in 2008. With these, first, they will enhance the interchange of information and knowledge sharing for SRM within a financial institution. Second, they will assist knowledge base development for SRM design, for which a prototype of financial systemic risk management decision support system is given in this study. Third, they will support coordination among different institutions by using standardized vocabularies. And finally, from the design science perspective, the whole proposed framework could be meaningful to models in other
+CY  - Ann Arbor
+DA  - 2009///
+PY  - 2009
+LA  - ZH
+M3  - Ph.D.
+PB  - University of Science and Technology of China (People's Republic of China)
+UR  - https://search.proquest.com/docview/1869119982?accountid=10218
+AN  - 1869119982
+DB  - ProQuest Dissertations & Theses A&I
+L2  - https://www.ub.uni-koeln.de/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&genre=dissertations+%26+theses&sid=ProQ:ProQuest+Dissertations+%26+Theses+A%26I&atitle=&title=Knowledge+level+modeling+for+systemic+risk+management+in+financial+institutions&issn=&date=2009-01-01&volume=&issue=&spage=&au=Ye%2C+Kang&isbn=&jtitle=&btitle=&rft_id=info:eric/&rft_id=info:doi/
+N1  - <p>Copyright - Database copyright ProQuest LLC; ProQuest does not claim copyright in the individual underlying works.</p>
+N1  - <p>Last updated - 2017-03-01</p>
+KW  - (UMI)AAI10415655
+KW  - 0488:Inorganic chemistry
+KW  - Inorganic chemistry
+KW  - Pure sciences
+ER  - 
+
+TY  - NEWS
+TI  - DSS Announces Market Research Program for the Design of 2009 MA and PDP Products and Marketing Programs: DSS Research, a leader in Medicare product design research, provides unique insights and tools to optimize Medicare product and marketing program design
+AU  - Anonymous
+T2  - PR Newswire
+AB  - The firm's services include product development services, satisfaction research, brand analysis and strategy research, ad testing and tracking, market segmentation research and health risk assessment, giving DSS a high-level view of the evolving health insurance business.
+CY  - New York
+DA  - 2008/01/22/
+PY  - 2008
+LA  - English
+UR  - https://search.proquest.com/docview/453275223?accountid=10218
+AN  - 453275223
+DB  - ABI/INFORM Collection
+L2  - https://www.ub.uni-koeln.de/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=article&sid=ProQ:ProQ%3Aabidateline&atitle=DSS+Announces+Market+Research+Program+for+the+Design+of+2009+MA+and+PDP+Products+and+Marketing+Programs%3A+DSS+Research%2C+a+leader+in+Medicare+product+design+research%2C+provides+unique+insights+and+tools+to+optimize+Medicare+product+and+marketing+program+design&title=PR+Newswire&issn=&date=2008-01-22&volume=&issue=&spage=&au=Anonymous&isbn=&jtitle=PR+Newswire&btitle=&rft_id=info:eric/&rft_id=info:doi/
+N1  - <p>Copyright - Copyright PR Newswire Association LLC Jan 22, 2008</p>
+N1  - <p>Last updated - 2010-11-03</p>
+KW  - Product design
+KW  - Neural networks
+KW  - Bayesian analysis
+KW  - Studies
+KW  - Business And Economics
+KW  - Statistical analysis
+KW  - Marketing
+KW  - Health insurance
+KW  - Health care policy
+KW  - Market segmentation
+KW  - Medicare
+ER  - 
+
+TY  - THES
+TI  - Resource availability awareness and data utility: The foundation for a DSS framework in a pervasive computing environment
+AU  - Russell, Stephen
+AB  - The reality of pervasive computing has nearly been realized, if it has not already. Pervasive computing environments promise ubiquitous connectivity, a plethora of information, and seamless computing support. Despite the advances in infrastructure to deliver on Weiser's original vision for pervasive computing environments, little attention has been specifically given to decision support systems that are expected to operate in these environments. Issues such as large amounts of highly variant data and decision resource availability can directly influence decision support systems and subsequently limit the efficacy of the support they provide. Moreover, these factors can have a direct effect on decision outcomes for deterministic structured and semi-structured problems. This research investigates the impact of data utility enhancement and availability awareness on decision making and decision support systems. A decision support system architecture that addresses the limitations caused by the large amounts of variant data and uneven conditioning of connectivity that are characteristic in pervasive computing environments is proposed and developed. By incorporating data utility enhancement, availability awareness, and an agent-based framework, the decision support system architecture seeks to extend the breadth of decision support systems research. This architecture, which we call the Pervasive Agent Decision Support System (PADSS), integrates intelligent agents, wavelets, and instant messaging as a comprehensive decision support solution to address data utility and resource availability related issues in pervasive computing environments. As such, this research study combines several experiments that include qualitative evaluation, empirical evaluation, mathematical modeling, and simulation in a design science context. The culmination of the research concludes with an implementation and evaluation of a pervasive computing DSS based on the presented DSS architecture.
+CY  - Ann Arbor
+DA  - 2008///
+PY  - 2008
+SP  - 292
+LA  - English
+M3  - Ph.D.
+PB  - University of Maryland, Baltimore County
+UR  - https://search.proquest.com/docview/304425972?accountid=10218
+AN  - 304425972
+DB  - ProQuest Dissertations & Theses A&I
+L2  - https://www.ub.uni-koeln.de/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&genre=dissertations+%26+theses&sid=ProQ:ProQuest+Dissertations+%26+Theses+A%26I&atitle=&title=Resource+availability+awareness+and+data+utility%3A+The+foundation+for+a+DSS+framework+in+a+pervasive+computing+environment&issn=&date=2008-01-01&volume=&issue=&spage=&au=Russell%2C+Stephen&isbn=9780549761242&jtitle=&btitle=&rft_id=info:eric/&rft_id=info:doi/
+N1  - <p>Copyright - Database copyright ProQuest LLC; ProQuest does not claim copyright in the individual underlying works.</p>
+N1  - <p>Last updated - 2016-05-28</p>
+KW  - Information science
+KW  - Computer science
+KW  - Decision support
+KW  - Decision support systems
+KW  - Context-aware computing
+KW  - Applied sciences
+KW  - Communication and the arts
+KW  - 0723:Information science
+KW  - 0984:Computer science
+KW  - Data utility
+KW  - Pervasive computing environments
+KW  - Resource availability awareness
+KW  - Wavelets
+ER  - 
+
+TY  - JOUR
+TI  - Towards a design science of ethical decision support
+AU  - Mathieson, Kieran
+T2  - Journal of business ethics
+AB  - Ethical decision making involves complex emotional, cognitive, social, and philosophical challenges. Even if someone wants to be ethical, he or she may not have clearly articulated what that means, or know how to go about making a decision consistent with his or her values. Information technology may be able to help. A decision support system could offer individuals and groups some guidance, assisting them in making a decision that reflects their underlying values. The first step towards a design science of ethical decision support is to develop a theoretical base on which first-generation systems can be built. This paper brings together work in cognitive, social and moral psychology, information systems, and philosophy relevant to ethical decision making. Attributes of a system that would support ethical decision making are described. Reprinted by permission of Springer
+DA  - 2007/12//
+PY  - 2007
+DO  - 10.1007/s10551-006-9281-4
+VL  - 76
+IS  - 3
+SP  - 269
+EP  - 292
+LA  - English
+SN  - 0167-4544, 0167-4544
+UR  - https://search.proquest.com/docview/36913914?accountid=10218
+AN  - 36913914; 3565041
+DB  - International Bibliography of the Social Sciences (IBSS)
+L2  - https://www.ub.uni-koeln.de/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=article&sid=ProQ:ProQ%3Aibss&atitle=Towards+a+design+science+of+ethical+decision+support&title=Journal+of+business+ethics&issn=01674544&date=2007-12-01&volume=76&issue=3&spage=269&au=Mathieson%2C+Kieran&isbn=&jtitle=Journal+of+business+ethics&btitle=&rft_id=info:eric/3565041&rft_id=info:doi/10.1007%2Fs10551-006-9281-4
+L2  - https://www.ub.uni-koeln.de/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=article&sid=ProQ:ProQ%3Aabiglobal&atitle=Towards+a+Design+Science+of+Ethical+Decision+Support%3A+JBE+JBE&title=Journal+of+Business+Ethics&issn=01674544&date=2007-12-01&volume=76&issue=3&spage=269&au=Mathieson%2C+Kieran&isbn=&jtitle=Journal+of+Business+Ethics&btitle=&rft_id=info:eric/&rft_id=info:doi/10.1007%2Fs10551-006-9281-4
+N1  - <p>Accession Number: 27175213; Mathieson, Kieran 1; Email Address: mathieso@oakland.edu; Affiliations: 1: School of Business Administration , Oakland University , Rochester 48309 USA; Issue Info: Dec2007, Vol. 76 Issue 3, p269; Thesaurus Term: Decision support systems; Thesaurus Term: Decision making; Thesaurus Term: Business ethics; Thesaurus Term: Information technology; Thesaurus Term: Social networks; Subject Term: Cognition; Subject Term: Social support; Subject Term: Social informatics; Subject Term: Philosophy; Subject Term: Ethics; Author-Supplied Keyword: decision support systems; Author-Supplied Keyword: design science; Author-Supplied Keyword: emotion; Author-Supplied Keyword: ethics; Author-Supplied Keyword: group support systems; Author-Supplied Keyword: philosophy; NAICS/Industry Codes: 624190 Other Individual and Family Services; Number of Pages: 24p; Illustrations: 1 Diagram, 1 Chart; Document Type: Article</p>
+N1  - <p>CODEN - JBUEDJ</p>
+N1  - <p>Copyright - Springer Science+Business Media B.V. 2007</p>
+N1  - <p>Date revised - 2013-06-12</p>
+N1  - <p>Document feature - Diagrams; References; Tables</p>
+N1  - <p>Last updated - 2013-09-16</p>
+N1  - <p>Last updated - 2018-10-06</p>
+N1  - <p>SubjectsTermNotLitGenreText - 1880 10902 1841; 1855 1841 4408 8282 8281 6085; 7632 6537 6515; 3322 6071 1542 11325</p>
+KW  - Ethics
+KW  - Decision making
+KW  - emotion
+KW  - Management information systems
+KW  - Social networks
+KW  - Studies
+KW  - 9130:Experimental/theoretical
+KW  - 5240:Software & systems
+KW  - Decision support systems
+KW  - Economics
+KW  - decision support systems
+KW  - Cognition
+KW  - Information technology
+KW  - design science
+KW  - Social support
+KW  - ethics
+KW  - philosophy
+KW  - Law
+KW  - Philosophy
+KW  - 2410:Social responsibility
+KW  - Social informatics
+KW  - Business ethics
+KW  - Business studies
+KW  - group support systems
+ER  - 
+
+TY  - THES
+TI  - Web-Based GIS Agriculturel Mechanization Decision Support System
+AU  - Lv, Huai Chang (吕长淮)
+AB  - The farm machinery information work is the farm machinery supervisory work important constituent, is reflects the farm machinery level the important method. The farm machinery information system in the enhancement farm machinery management, the scientific research, the production, the farm machinery new technology, the new machines and tools promoted application, the farm machinery sale and in the work service market is playing the vital role. Our country is being in by the traditional agriculture the time which transforms to the modern agriculture, the enlarge dynamics development mechanization of agriculture information system development and the research, promotes our country agricultural development, speeds up our country mechanization of agriculture, modernized, the informationization general orientation, the major tendency.
+In the last few years, our country's farm machinery informationization construction obtained certain degree development, the information network service further has also launched, but because our country's farm machinery informationization work start was late, the farm machinery informationization aggregate level quite was also low, the farm machinery information resource development use, compared especially with the developed country still has the big disparity. Simultaneously the communication way is backward, the transmission speed is slow. The farm machinery information system construction also only is at the start stage, some many urgently awaits the question which is solved. If the information service level is low, to develops the farm machinery information service market to lack the research, many information resources have not obtained the full development and the use; Information gathering, the processing system quite are backward, information isue, transmission lag and so on.
+The paper mainly aims at the question which in the present our country farm machinery information management statistical analysis work exists, proposed technology introduces the modern networking and Web the GIS in the farm machinery information management statistical analysis work, provides the new method and the new method for the farm machinery information work, enhances the farm machinery informationization work the efficiency. Simultaneously studies each kind of algorithm model to provide the forecast decision-making support for the farm machinery work, enhances the government macroscopic decision power. Finally to technology application carries on the design realization take Ningpo city as the example based on Web the GIS in the network farm machinery decision support system.
+The paper research conclusion mainly includes following several aspects:
+(1) in the analysis current farm machinery information work present situation, the existence question and in the future trend of development foundation, proposed technology introduces the modern networking and Web the GIS in the farm machinery information management work, changes the current farm machinery data material management statistical analysis using the Internet the working pattern, is the farm machinery information work provides the new method, the new method using Web GIS, enhances the farm machinery information work the efficiency.
+(2) from the Web GIS essential feature, the development present situation, the structure method and the model embarked, has discussed Web GIS regarding the mechanization of agriculture development vital significance. In view of the mechanization of agriculture information characteristic and the Web GIS characteristic, has studied Web GIS in the farm machinery information management development main application domain.
+(3) Each kind of forecast forecasts and operates policy-making mathematics to conduct the research using the model to the farm machinery management in, and programs with JAVA realizes its application model procedure, utilizes these model procedure in the farm machinery data material management statistical analysis system software forecasts the policy-making function module the development.
+(4) To carries on the system analysis and the design based on the Web GIS farm machinery decision system software. Carries on the concrete analysis to the software demand, establishes the system the development environment, the choice development kit, in view of Web GIS and when farm machinery information management system union development the system data complexity, has conducted the research to the system data organization, for a system design science reasonable data organization model.
+(5) To system performance history in application several key technologies for example: The MVC design pattern, the memory process, and so on has conducted the research based on the WEB JAVA graph, uses the JAVA language development system, the realization system basic function.
+Finally carries on the summary to the paper current work, mainly explained this article contribution, in view of the existence insufficiency, we proposed the forecast to the system application and the future work.Alternate abstract:
+农机化信息工作是农机化工作的重要组成部分，是反映农机化水平的重要手段。农机化信息管理决策体系在加强农机管理、科研、生产、农机化新技术、新机具的推广应用、农机销售和作业服务市场等领域中发挥着重要的作用。我国正处于由传统农业向现代农业转变的时期，加大力度开展农业机械化信息管理和决策系统的开发和研究，是促进我国农业发展，加快我国农业机械化、现代化、信息化的大方向、大趋势。
+近几年来，我国的农机信息化建设得到了一定程度的发展，信息网络服务也进一步展开，但由于我国的农机信息化工作起步较晚，农机信息化总体水平还比较低，尤其农机信息资源的开发利用，与发达国家相比仍然存在较大差距。同时信息交流方式落后，传递速度缓慢。农机信息体系建设还只是处于起步阶段，有许多亟待解决的问题。如信息服务水平较低，对开拓农机化信息服务市场缺乏研究，许多信息资源没有得到充分的开发和利用；信息采集、处理系统比较落后，信息发布、传输滞后等等。
+本论文主要针对目前我国农机化信息管理工作中存在的问题，提出了将现代网络技术和Web GIS技术引入到农机化信息管理工作中，为农机化信息工作提供新手段和新方法，提高农机信息化工作的效率。同时研究各类算法模型为农机化工作提供预测决策支持，提高政府的宏观决策能力。最后以宁波市为例对基于Web GIS技术的应用于网络的农机化决策支持系统进行设计实现。
+论文的研究结论主要包括以下几个方面：
+（1）在分析当前农机化信息工作的现状、存在的问题和未来发展趋势的基础上，提出了将现代网络技术和Web GIS技术引入到农机化信息管理工作中去，利用互联网来改变当前农机化数据资料管理统计分析的工作模式，利用Web GIS为农机化信息工作提供新手段、新方法，提高农机化信息工作的效率。
+（2）从Web GIS的基本特点、发展现状、构造方法和模型出发，探讨Web GIS对于农业机械化发展的重要意义。针对农业机械化信息的特点和Web GIS的特点，研究了Web GIS在农机化信息管理发展中的主要应用领域。
+（3）对农机化管理中各类预测预报和运筹决策数学应用模型进行研究，并用JAVA编程实现其应用模型程序，将这些模型程序运用于农机化管理决策支持系统软件中预测决策功能模块的开发。
+（4）以宁波为例，对基于Web GIS的农机化决策系统软件进行系统分析和设计。对软件的需求进行具体的分析，建立系统的开发环境，选择开发工具，针对Web GIS与农机化信息管理系统结合开发时系统数据的复杂性，对系统的数据组织进行了研究，为系统设计一个科学合理的数据组织模型。
+（5）对系统开发过程中应用的几个关键技术如：MVC设计模式、存储过程、基于WEB的JAVA图表等等进行了研究，利用JAVA语言开发系统，实现系统的基本功能。
+最后对论文当前工作进行总结，主要说明了本文的贡献，针对存在的不足，对系统应用和未来的工作提出了展望。
+CY  - Ann Arbor
+DA  - 2007///
+PY  - 2007
+LA  - ZH
+M3  - ADV DEG
+PB  - Zhejiang University (People's Republic of China)
+UR  - https://search.proquest.com/docview/1026686864?accountid=10218
+AN  - 1026686864
+DB  - ProQuest Dissertations & Theses A&I
+L2  - https://www.ub.uni-koeln.de/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&genre=dissertations+%26+theses&sid=ProQ:ProQuest+Dissertations+%26+Theses+A%26I&atitle=&title=Web-Based+GIS+Agriculturel+Mechanization+Decision+Support+System&issn=&date=2007-01-01&volume=&issue=&spage=&au=Lv%2C+Huai+Chang&isbn=&jtitle=&btitle=&rft_id=info:eric/&rft_id=info:doi/
+N1  - <p>Copyright - Database copyright ProQuest LLC; ProQuest does not claim copyright in the individual underlying works.</p>
+N1  - <p>Last updated - 2016-06-11</p>
+KW  - Computer science
+KW  - Applied sciences
+KW  - 0984:Computer science
+KW  - (UMI)AAIH230610
+KW  - 农业机械化  Intranet Web GIS  农机管理信息系统
+ER  - 
+
+TY  - THES
+TI  - The viability of IS enhanced knowledge sharing in mission-critical command and control centers
+AU  - Sabet, Sameh A.
+AB  - Engineering processes such as the maintenance of mission-critical infrastructures are highly unpredictable processes that are vital for everyday life, as well as for national security goals. These processes are categorized as Emergent Knowledge Processes (EKP), organizational processes that are characterized by a changing set of actors, distributed knowledge bases, and emergent knowledge sharing activities where the process itself has no predetermined structure. The research described here utilizes the telecommunications network fault diagnosis process as a specific example of an EKP. The field site chosen for this research is a global undersea telecommunication network where nodes are staffed by trained personnel responsible for maintaining local equipment using Network Management Systems. The overall network coordination responsibilities are handled by a centralized command and control center, or Network Management Center. A formal case study is performed in this global telecommunications network to evaluate the design of an Alarm Correlation Tool (ACT).    This work defines a design methodology for an Information System (IS) that can support complex engineering diagnosis processes. As such, a Decision Support System design model is used to iterate through a number of design theories that guide design decisions. Utilizing the model iterations, it is found that IS design theories such as Decision Support Systems (DSS), Expert Systems (ES) and Knowledge Management Systems (KMS) design theories, do not produce systems appropriate for supporting complex engineering processes. A design theory for systems that support EKPs is substituted as the project's driving theory during the final iterations of the DSS Design Model. This design theory poses the use of naïve users to support the design process as one of its key principles. The EKP design theory principles are evaluated and addressed to provide feedback to this recently introduced Information System Design Theory. The research effort shows that use of the EKP design theory is also insufficient in designing complex engineering systems. As a result, the main contribution of this work is to augment design theory with a methodology that revolves around the analysis of the knowledge management and control environment as a driving force behind IS design.    Finally, the research results show that a model-based knowledge capturing algorithm provides an appropriate vehicle to capture and manipulate experiential engineering knowledge. In addition, it is found that the proposed DSS Design Model assists in the refinement of highly complex system designs. The results also show that the EKP design theory is not sufficient to address all the challenges posed by systems that must support mission-critical infrastructures.
+CY  - Ann Arbor
+DA  - 2006///
+PY  - 2006
+SP  - 219
+LA  - English
+M3  - Ph.D.
+PB  - New Jersey Institute of Technology
+UR  - https://search.proquest.com/docview/305282783?accountid=10218
+AN  - 305282783
+DB  - ProQuest Dissertations & Theses A&I
+L2  - https://www.ub.uni-koeln.de/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&genre=dissertations+%26+theses&sid=ProQ:ProQuest+Dissertations+%26+Theses+A%26I&atitle=&title=The+viability+of+IS+enhanced+knowledge+sharing+in+mission-critical+command+and+control+centers&issn=&date=2006-01-01&volume=&issue=&spage=&au=Sabet%2C+Sameh+A.&isbn=9780549872542&jtitle=&btitle=&rft_id=info:eric/&rft_id=info:doi/
+N1  - <p>Copyright - Database copyright ProQuest LLC; ProQuest does not claim copyright in the individual underlying works.</p>
+N1  - <p>Last updated - 2016-06-23</p>
+KW  - Knowledge sharing
+KW  - Computer science
+KW  - Decision support systems
+KW  - Design science
+KW  - Decision theory
+KW  - Case study
+KW  - Applied sciences
+KW  - 0984:Computer science
+KW  - Emergent knowledge process
+KW  - Mission-critical infrastructure
+ER  - 
+
+TY  - THES
+TI  - Healthcare information systems: Design theory, principles and application
+AU  - Richardson, Sandra Marie
+AB  - Healthcare information systems (HISs), as a class of systems, are not currently addressed in the MIS literature. This is in spite of a sharp increase in use over the past few years, and the uniquely qualified role that MIS has in the development of, impact and general understanding of HISs. In this project the design science paradigm frames the development of a set of design principles derived from the synthesis of the design literature, ethics literature, and professional guidelines, from both the medical and computing professions. The resulting principles are offered to address the design of healthcare information systems. Action research, a widely accepted methodology for testing design principles derived from the design science paradigm, is employed to test the HIS principles and to implement change in a healthcare organization through the use of an HIS. The action research project was a collaborative effort between a Central Florida hospice and the researcher, the result of which was an advanced directives decision support system. The system was design to meet a number of organizational goals that ranged from tracking compliance with federal regulations to increasing the autonomy of the patients that used the system. The result is a set of tested design principles and lessons learned from both anticipated and unanticipated consequences of the action research project.
+CY  - Ann Arbor
+DA  - 2006///
+PY  - 2006
+SP  - 211
+LA  - English
+M3  - Ph.D.
+PB  - University of Central Florida
+UR  - https://search.proquest.com/docview/304945203?accountid=10218
+AN  - 304945203
+DB  - ABI/INFORM Collection; ProQuest Dissertations & Theses A&I
+L2  - https://www.ub.uni-koeln.de/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&genre=dissertations+%26+theses&sid=ProQ:ABI%2FINFORM+Global&atitle=&title=Healthcare+information+systems%3A+Design+theory%2C+principles+and+application&issn=&date=2006-01-01&volume=&issue=&spage=&au=Richardson%2C+Sandra+Marie&isbn=9780542976087&jtitle=&btitle=&rft_id=info:eric/&rft_id=info:doi/
+N1  - <p>Copyright - Database copyright ProQuest LLC; ProQuest does not claim copyright in the individual underlying works.</p>
+N1  - <p>Last updated - 2016-05-25</p>
+KW  - Information systems
+KW  - Studies
+KW  - Systems design
+KW  - Patients
+KW  - Action research
+KW  - Social sciences
+KW  - Management
+KW  - Compliance
+KW  - 0454:Management
+KW  - 0769:Health care
+KW  - Corporate objectives
+KW  - Health and environmental sciences
+KW  - Health care industry
+KW  - Health care information systems
+KW  - MIS
+KW  - Palliative care
+ER  - 
+
+TY  - JOUR
+TI  - Cognitive biases and decision support systems development: a design science approach
+AU  - Arnott, David
+T2  - Information Systems Journal
+AB  - This paper presents design science research that aims to improve decision support systems (DSS) development in organizations. Evolutionary development has been central to DSS theory and practice for decades, but a significant problem for DSS analysts remains how to conceptualize the improvement of a decision task during evolutionary DSS development. The objective of a DSS project is to improve the decision process and outcome for a manager making an important decision. The DSS analyst needs to have a clear idea of the nature of the target decision task and a clear strategy of how to support the decision process. Existing psychological research was examined for help with the conceptualization problem, and the theory of cognitive bias is proposed as a candidate for this assistance. A taxonomy of 37 cognitive biases that codifies a complex area of psychological research is developed. The core of the project involves the construction of a design artefact - an evolutionary DSS development methodology that uses cognitive bias theory as a focusing construct, especially in its analysis cycles. The methodology is the major contribution of the project. The feasibility and effectiveness of the development methodology are evaluated in a participatory case study of a strategic DSS project where a managing director is supported in a decision about whether to close a division of a company. [PUBLICATION ABSTRACT]
+DA  - 2006/01//
+PY  - 2006
+DO  - 10.1111/j.1365-2575.2006.00208.x
+VL  - 16
+IS  - 1
+SP  - 55
+LA  - English
+SN  - 13501917
+UR  - https://search.proquest.com/docview/198310094?accountid=10218
+AN  - 198310094
+DB  - ABI/INFORM Collection
+L2  - https://www.ub.uni-koeln.de/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=article&sid=ProQ:ProQ%3Aabiglobal&atitle=Cognitive+biases+and+decision+support+systems+development%3A+a+design+science+approach&title=Information+Systems+Journal&issn=13501917&date=2006-01-01&volume=16&issue=1&spage=55&au=Arnott%2C+David&isbn=&jtitle=Information+Systems+Journal&btitle=&rft_id=info:eric/&rft_id=info:doi/10.1111%2Fj.1365-2575.2006.00208.x
+N1  - <p>Accession Number: 19215643; Arnott, David 1,2; Email Address: david.arnott@infotech.monash.edu.au; Affiliations: 1: Professor of Information System, Monash University, Victoria 3800, Australia; 2: Associate Dean, Faculty of Information Technology, Monash University, Victoria 3800, Australia; Issue Info: Jan2006, Vol. 16 Issue 1, p55; Thesaurus Term: Decision support systems; Thesaurus Term: Associations, institutions, etc.; Thesaurus Term: Decision making; Thesaurus Term: Research; Thesaurus Term: Feasibility studies; Thesaurus Term: Corporate directors; Subject Term: Taxonomy; Subject Term: Psychological research; Subject Term: Methodology; Author-Supplied Keyword: behavioural decision theory; Author-Supplied Keyword: cognitive bias; Author-Supplied Keyword: decision support systems; Author-Supplied Keyword: design science; Author-Supplied Keyword: systems development; NAICS/Industry Codes: 813990 Other Similar Organizations (except Business, Professional, Labor, and Political Organizations); NAICS/Industry Codes: 541720 Research and Development in the Social Sciences and Humanities; Number of Pages: 24p; Illustrations: 2 Diagrams, 3 Charts; Document Type: Article</p>
+N1  - <p>Copyright - © 2006 The Authors; Journal compilation © 2006 Blackwell publishing Ltd</p>
+N1  - <p>Document feature - references</p>
+N1  - <p>Last updated - 2012-02-21</p>
+KW  - Research
+KW  - Taxonomy
+KW  - Systems development
+KW  - Decision making
+KW  - Studies
+KW  - 9130:Experimental/theoretical
+KW  - 5240:Software & systems
+KW  - Decision support systems
+KW  - decision support systems
+KW  - design science
+KW  - Theory
+KW  - Psychological research
+KW  - Systems design
+KW  - Associations, institutions, etc.
+KW  - Methodology
+KW  - Cognition & reasoning
+KW  - Computers--Computer Systems
+KW  - systems development
+KW  - Feasibility studies
+KW  - behavioural decision theory
+KW  - cognitive bias
+KW  - Corporate directors
+ER  - 
+
+TY  - JOUR
+TI  - Promoting the System Integration of Renewable Energies: Toward a Decision Support System for Incentivizing Spatially Diversified Deployment.
+AU  - Piel, Jan-Hendrik
+AU  - Hamann, Julian F.H.
+AU  - Koukal, André
+AU  - Breitner, Michael H.
+T2  - Journal of Management Information Systems
+AB  - The system integration of intermittent renewable energies (RE) poses an important challenge in the transition toward sustainable energy systems. Their intermittency introduces variability into electricity generation, leading to high ancillary service costs and technical issues impairing grid stability and supply reliability. These issues can be mitigated through spatially diversified capacity deployment, as RE intermittency can be geographically smoothed over sufficiently large regions. Following a design science research approach, we develop a model for the quantification of location-based investment incentives in RE support mechanisms to foster spatially diversified capacity deployment. We evaluate the modeling approach in a simulation study with focus on diversifying wind energy deployment in Mexico under an idealized auction mechanism and demonstrate how location-based investment incentives reduce resource-dependent competition among projects. Our research contributes a nascent design theory that combines the kernel theories for identifying favorable spatial distributions of RE capacity with current policy designs to support capacity expansion management [ABSTRACT FROM AUTHOR]
+DA  - 2017/10//
+PY  - 2017
+DP  - EBSCOhost
+VL  - 34
+IS  - 4
+SP  - 994
+EP  - 1022
+J2  - Journal of Management Information Systems
+SN  - 07421222
+UR  - https://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=127056614&site=ehost-live
+DB  - bth
+N1  - <p>Accession Number: 127056614; Piel, Jan-Hendrik; Email Address: piel@iwi.uni-hannover.de; Hamann, Julian F.H.; Email Address: hamann@iwi.uni-hannover.de; Koukal, André; Email Address: koukal@iwi.uni-hannover.de; Breitner, Michael H.; Email Address: breitner@iwi.uni-hannover.de; Issue Info: 2017, Vol. 34 Issue 4, p994; Thesaurus Term: Renewable energy sources; Thesaurus Term: Electric power production; Thesaurus Term: Decision support systems; Thesaurus Term: Electric power distribution grids; Thesaurus Term: Reliability (Engineering); Thesaurus Term: Wind power; Thesaurus Term: Simulation methods & models; Thesaurus Term: Design science; Author-Supplied Keyword: design science; Author-Supplied Keyword: energy policy; Author-Supplied Keyword: green information systems; Author-Supplied Keyword: policy decision support; Author-Supplied Keyword: renewable energy; Author-Supplied Keyword: renewable energy auctions; Author-Supplied Keyword: sustainable energy planning; Author-Supplied Keyword: wind energy; NAICS/Industry Codes: 221112 Fossil Fuel Electric Power Generation; NAICS/Industry Codes: 221115 Wind Electric Power Generation; NAICS/Industry Codes: 221119 Other electric power generation; Number of Pages: 29p; Illustrations: 1 Diagram, 2 Charts, 5 Graphs; Document Type: Article; Full Text Word Count: 11994</p>
+KW  - renewable energy
+KW  - Decision support systems
+KW  - Simulation methods & models
+KW  - design science
+KW  - Design science
+KW  - Reliability (Engineering)
+KW  - Wind power
+KW  - Renewable energy sources
+KW  - green information systems
+KW  - Electric power distribution grids
+KW  - Electric power production
+KW  - energy policy
+KW  - policy decision support
+KW  - renewable energy auctions
+KW  - sustainable energy planning
+KW  - wind energy
+ER  - 
+
+TY  - JOUR
+TI  - The use of design science research in the development of a performance management system for hospitality.
+AU  - António, Nuno
+AU  - Serra, Francisco
+T2  - O uso de design science research no desenvolvimento de um sistema de gestão da performance para a hotelaria.
+AB  - Since no Performance Management (PM) systems specific for the hospitality industry seem to exist in the market, it was decided to evaluate the commercial viability of such a system by developing one and making it available to hotels in the form of Software as a Service (SaaS). Software deployed in the cloud, delivered and licensed as a service is becoming increasingly common and accepted in a business context. Although PM and Decision Support Systems (DSS) are not usually distributed in the SaaS mode, there are some examples that this is changing. To evaluate the system in both the technical and business perspectives, a prototype was developed using the Design Science Research (DSR) methodology and made available to four hotels. The results revealed that hotels were very satisfied with the system and that building a prototype is a good method to develop and assess PM systems. (English) [ABSTRACT FROM AUTHOR]
+DA  - 2015/09//
+PY  - 2015
+DP  - EBSCOhost
+VL  - 26
+IS  - 2
+SP  - 23
+EP  - 46
+J2  - Dos Algarves: A Multidisciplinary e-Journal
+SN  - 08737347
+UR  - https://search.ebscohost.com/login.aspx?direct=true&db=a9h&AN=113415721&site=ehost-live
+DB  - a9h
+N1  - <p>Accession Number: 113415721; António, Nuno 1; Email Address: nmantonio@ualg.pt Serra, Francisco 1; Email Address: fserra@ualg.pt; Affiliation:  1: Escola Superior de Gestão, Hotelaria e Turismo, Universidade do Algarve, Portugal; Source Info: 2015, Vol. 26 Issue 2, p23; Subject Term: HOSPITALITY industry; Subject Term: PERFORMANCE management; Subject Term: SOFTWARE as a service; Subject Term: DECISION support systems; Subject Term: DESIGN science; Author-Supplied Keyword: business intelligence; Author-Supplied Keyword: data analytics; Author-Supplied Keyword: design science research; Author-Supplied Keyword: hospitality; Author-Supplied Keyword: performance management; Author-Supplied Keyword: software as a service; Author-Supplied Keyword: análise de dados; Author-Supplied Keyword: gestão da performance; Author-Supplied Keyword: hotelaria; Author-Supplied Keyword: inteligência empresarial; Language of Keywords: English; Language of Keywords: Portuguese; Number of Pages: 24p; Document Type: Article</p>
+KW  - PERFORMANCE management
+KW  - DECISION support systems
+KW  - data analytics
+KW  - design science research
+KW  - business intelligence
+KW  - DESIGN science
+KW  - software as a service
+KW  - análise de dados
+KW  - gestão da performance
+KW  - hospitality
+KW  - HOSPITALITY industry
+KW  - hotelaria
+KW  - inteligência empresarial
+KW  - performance management
+KW  - SOFTWARE as a service
+ER  - 
+
+TY  - JOUR
+TI  - DECISION SUPPORT SYSTEM FOR GENERATING ERGONOMIC TOOL-HANDLES.
+AU  - Harih, G.
+T2  - International Journal of Simulation Modelling (IJSIMM)
+AB  - Tool-handle design research has been previously limited to determination of diameters of cylindrical handles to increase performance, comfort and avoid acute and cumulative traumatic disorders. However, there is still lack of correct shape determination and systemization of the ergonomic design knowledge. To overcome these limitations, methodology to develop optimal sized and shaped tool-handles for a target population previously developed has been integrated into an existing ergonomics and aesthetics decision support system. The system allows a correct determination of tool-handle size and shape according to the target population and provides general ergonomics knowledge. Resulting handles consider optimal diameters for each finger to maximize maximum voluntary contraction, comfort and contact area, which can lower the risk of acute and cumulative trauma disorders. The system allows development of ergonomic tool-handles with almost no prior ergonomics knowledge and without iterative design process, which decreases the designing time. [ABSTRACT FROM AUTHOR]
+DA  - 2014/03//
+PY  - 2014
+DP  - EBSCOhost
+VL  - 13
+IS  - 1
+SP  - 5
+EP  - 15
+J2  - International Journal of Simulation Modelling (IJSIMM)
+SN  - 17264529
+UR  - https://search.ebscohost.com/login.aspx?direct=true&db=a9h&AN=94827781&site=ehost-live
+DB  - a9h
+N1  - <p>Accession Number: 94827781; Harih, G. 1; Email Address: gregor.harih@um.si; Affiliation:&nbsp;&nbsp;1: Laboratory for intelligent CAD systems, University of Maribor, Faculty of Mechanical Engineering, Smetanova 17, SI-2000 Maribor, Slovenia; Source Info: Mar2014, Vol. 13 Issue 1, p5; Subject Term: ERGONOMICS; Subject Term: DECISION support systems; Subject Term: FINITE element method; Subject Term: INJURY risk factors; Subject Term: AESTHETICS; Subject Term: BIOENGINEERING; Author-Supplied Keyword: Decision Support System; Author-Supplied Keyword: Ergonomics; Author-Supplied Keyword: Finite Element Method; Author-Supplied Keyword: Material Choice; Author-Supplied Keyword: Tool-Handle; Number of Pages: 11p; Document Type: Article</p>
+KW  - Ergonomics
+KW  - Decision Support System
+KW  - ERGONOMICS
+KW  - AESTHETICS
+KW  - DECISION support systems
+KW  - BIOENGINEERING
+KW  - Finite Element Method
+KW  - FINITE element method
+KW  - INJURY risk factors
+KW  - Material Choice
+KW  - Tool-Handle
+ER  - 
+
+TY  - JOUR
+TI  - Decision support for optimizing waste management.
+AU  - Rybnytska, Olga
+AU  - Burstein, Frada
+AU  - Rybin, Andrei V.
+AU  - Zaslavsky, Arkady
+T2  - Journal of Decision Systems
+AB  - During the last few decades, research into sustainability aspects of ICT grew rapidly for most organisational and business processes. Evolution towards the development of infrastructure for Smart Cities, Green ICT with application of decision support systems (DSSs) created opportunities for solving complex problems, for example, sensor-enabled smart waste management. This paper focuses on supporting decisions for sustainable garbage collection route planning and optimisation. The objective is to create a practical solution for reducing CO2 emissions and reduce negative impact on the environment as a result. From the design science perspective, a DSS is proposed, researched and developed to increase the effectiveness of municipal waste management. The paper also evaluates this approach against the Green IS framework. [ABSTRACT FROM AUTHOR]
+DA  - 2018/01/02/
+PY  - 2018
+DP  - EBSCOhost
+VL  - 27
+SP  - 67
+EP  - 78
+J2  - Journal of Decision Systems
+SN  - 12460125
+UR  - https://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=130147348&site=ehost-live
+DB  - bth
+N1  - <p>Accession Number: 130147348; Rybnytska, Olga 1; Email Address: olga.rybnytska@gmail.com; Burstein, Frada 2; Rybin, Andrei V. 1; Zaslavsky, Arkady 3; Affiliations: 1: International Research Lab ``Modern Communication Technologies' Research and Applications in Finance and Economy'', ITMO University, Saint-Petersburg, Russia; 2: Faculty of IT, Monash University, Melbourne, Australia; 3: Data61, CSIRO, Clayton, Australia; Issue Info: 2018 Supplement, Vol. 27, p67; Thesaurus Term: Decision support systems; Thesaurus Term: Waste management; Thesaurus Term: Sustainable development; Subject Term: Smart cities; Subject Term: Refuse collection; Author-Supplied Keyword: decision support system; Author-Supplied Keyword: Pervasive computing; Author-Supplied Keyword: smart waste management; Author-Supplied Keyword: sustainability; NAICS/Industry Codes: 562110 Waste collection; NAICS/Industry Codes: 562119 Other Waste Collection; NAICS/Industry Codes: 562210 Waste treatment and disposal; NAICS/Industry Codes: 562212 Solid Waste Landfill; NAICS/Industry Codes: 562111 Solid Waste Collection; NAICS/Industry Codes: 926110 Administration of General Economic Programs; Number of Pages: 12p; Document Type: Article</p>
+KW  - Sustainable development
+KW  - Pervasive computing
+KW  - sustainability
+KW  - Waste management
+KW  - Decision support systems
+KW  - Smart cities
+KW  - decision support system
+KW  - Refuse collection
+KW  - smart waste management
+ER  - 
+
+TY  - JOUR
+TI  - The Creation of Business Architecture Heat Maps to Support Strategy-Aligned Organizational Decisions.
+AU  - Roelens, Ben
+AU  - Poels, Geert
+T2  - Proceedings of the European Conference on Information Management & Evaluation
+AB  - The realization of strategic alignment within the business architecture has become increasingly important for companies. Indeed, it facilitates business-IT alignment as a well-designed business architecture helps both to identify the appropriate requirements for IT systems and to discover new business opportunities that can be realized by IT. However, there is a lack of alignment techniques that support organizational (re)design decisions during the operation phase as the actual performance of business architecture elements is neglected. Capability heat maps provide a useful starting point in this respect as they focus on the creation of a hierarchy of prioritized capabilities, which are characterized by a performance measure. In this paper, these techniques will be extended to support strategy-aligned decisions within the business architecture. The identification of the relevant business architecture elements is based on state-of-the-art enterprise modelling languages, which enable the development of enterprise models on distinct layers of the business architecture. Strategic alignment between these elements will be realized by using prioritization according to the Analytic Hierarchy Process (AHP), while performance measurement will enable the creation of a proper decision support system. Afterwards, the proposed heat map will be applied on a case example to illustrate its potential use. This results in the completion of a first build-and-evaluate loop within the Design Science methodology. [ABSTRACT FROM AUTHOR]
+DA  - 2014/01//
+PY  - 2014
+DP  - EBSCOhost
+SP  - 388
+EP  - 392
+J2  - Proceedings of the European Conference on Information Management & Evaluation
+UR  - https://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=99225153&site=ehost-live
+DB  - bth
+N1  - <p>Accession Number: 99225153; Roelens, Ben 1; Email Address: Ben.Roelens@UGent.be; Poels, Geert 1; Email Address: Geert.Poels@UGent.be; Affiliations: 1: Department of Management Information Science and Operations Management, Faculty of Economics and Business Administration, Ghent University, Gent, Belgium; Issue Info: 2014, p388; Thesaurus Term: Business planning; Thesaurus Term: Information technology; Thesaurus Term: Business performance measurement; Thesaurus Term: Organizational structure; Subject Term: Analytic hierarchy process; Author-Supplied Keyword: AHP; Author-Supplied Keyword: business architecture; Author-Supplied Keyword: enterprise modelling; Author-Supplied Keyword: heat maps; Author-Supplied Keyword: performance measurement; Number of Pages: 5p; Document Type: Article</p>
+KW  - Analytic hierarchy process
+KW  - Information technology
+KW  - Organizational structure
+KW  - Business planning
+KW  - AHP
+KW  - performance measurement
+KW  - business architecture
+KW  - Business performance measurement
+KW  - enterprise modelling
+KW  - heat maps
+ER  - 
+
+TY  - JOUR
+TI  - The Development of an IT Governance Maturity Model for Hard and Soft Governance.
+AU  - Smits, Daniël
+AU  - van Hillegersberg, Jos
+T2  - Proceedings of the European Conference on Information Management & Evaluation
+AB  - To be able to advance in maturity, organizations should pay attention to both the hard and soft aspects of governance. Current literature on IT governance (ITG) is mostly directed at the hard part of governance, focusing on structures and processes. The soft part of governance is related to social aspects like human behavior and organizational culture. This part of governance receives much less attention in the literature. The goal of the study is to design a model which covers hard and soft governance and can be used as a basis for a maturity model (MM). We adopted a research method based on a combination of design science and a Delphi study using the Spilter Group Decision Support System. In this paper we build upon a systematic literature study we conducted. In this study we did not find a MM for ITG that covers the hard and soft part of governance. We thus designed a new maturity ITG (MIG) model using knowledge from literature and experts. As the first step we designed an initial model using literature. This initial model was discussed and improved with experts from practice during a Delphi study with four rounds. The result was a MM with four domains and a context of the organization. The four domains are 'Collaboration', 'Structure', 'Process' and 'Behavior'. Within each domain focus areas were defined based on knowledge from literature and experts. The focus areas 'Culture' and 'Internal organization' from the initial model were moved to the context component because they could be seen as value free. They belong in the situational part of the MM and not in the maturity grid. The contributions of this paper are twofold: n1) a description of the focus areas of the MIG model, i.e. an ITG MM which covers both hard and soft governance: this is of value because such a model for ITG does not exist and is needed in practice; 2) a description of the design process of the MM: this is of value because the procedures and methods that led to current MMs have only been documented very sketchily or implicitly. [ABSTRACT FROM AUTHOR]
+DA  - 2014/01//
+PY  - 2014
+DP  - EBSCOhost
+SP  - 347
+EP  - 355
+J2  - Proceedings of the European Conference on Information Management & Evaluation
+UR  - https://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=99225147&site=ehost-live
+DB  - bth
+N1  - <p>Accession Number: 99225147; Smits, Daniël 1; Email Address: d.smits@utwente.nl; van Hillegersberg, Jos 1; Email Address: j.vanhillegersberg@utwente.nl; Affiliations: 1: School of Management and Governance, University of Twente, Enschede, The Netherlands; Issue Info: 2014, p347; Thesaurus Term: Corporate governance; Thesaurus Term: Information technology; Thesaurus Term: Industrial management; Thesaurus Term: Corporate culture; Thesaurus Term: Delphi method; Thesaurus Term: Decision support systems; Subject Term: Human behavior; Author-Supplied Keyword: behavior; Author-Supplied Keyword: Delphi study; Author-Supplied Keyword: design science; Author-Supplied Keyword: IT governance; Author-Supplied Keyword: maturity model; Author-Supplied Keyword: organizational culture; Number of Pages: 9p; Document Type: Article</p>
+KW  - Human behavior
+KW  - Decision support systems
+KW  - Information technology
+KW  - design science
+KW  - Corporate culture
+KW  - organizational culture
+KW  - Delphi method
+KW  - Delphi study
+KW  - maturity model
+KW  - IT governance
+KW  - behavior
+KW  - Corporate governance
+KW  - Industrial management
+ER  - 
+
+TY  - JOUR
+TI  - A DEVELOPMENT-ORIENTED DSS EVALUATION APPROACH: A CASE DEMONSTRATION FOR CONCEPTUAL ASSESSMENT.
+AU  - Miah, Shah Jahan
+AU  - Debuse, Justin
+AU  - Kerr, Don
+T2  - Australasian Journal of Information Systems
+AB  - As a subset of the Information systems (IS) discipline, Decision Support Systems (DSS) development research needs a broader conceptual lens in order to evaluate design qualities specific to DSS. This paper presents a development-oriented approach for evaluating DSS applications. Based on a design science mental model proposed by Peffers, Tuunanen, Rothenberger and Chatterjeea (2008), our study outlines a new application area of this conceptual approach through a case demonstration of DSS development through various design checkpoints. To assess the proposed development-oriented evaluation strategy the paper also describes a qualitative investigation that has been undertaken to assess the conceptual approach with target industry DSS users and developers. The findings suggest that this strategy is of use for improving the overall design qualities in every phase of DSS development, and could be useful for evaluating DSS design with target users and DSS designers within a socio-technical design context. [ABSTRACT FROM AUTHOR]
+DA  - 2012/06//
+PY  - 2012
+DP  - EBSCOhost
+VL  - 17
+IS  - 2
+SP  - 43
+EP  - 55
+J2  - Australasian Journal of Information Systems
+SN  - 14498618
+UR  - https://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=78555037&site=ehost-live
+DB  - bth
+N1  - <p>Accession Number: 78555037; Miah, Shah Jahan 1; Email Address: shah.miah@vu.edu.au; Debuse, Justin 2; Kerr, Don 2; Affiliations: 1: School of Management and Information Systems Victoria University; 2: Faculty of Arts and Business University of the Sunshine Coast; Issue Info: 2012, Vol. 17 Issue 2, p43; Thesaurus Term: Information storage & retrieval systems; Thesaurus Term: Decision support systems; Thesaurus Term: Information resources management; Thesaurus Term: Artificial intelligence; Thesaurus Term: Expert systems (Computer science); Author-Supplied Keyword: Decision Support Systems; Author-Supplied Keyword: Design Science Research; Author-Supplied Keyword: Evaluation Methods; NAICS/Industry Codes: 519190 All Other Information Services; Number of Pages: 13p; Document Type: Article</p>
+KW  - Artificial intelligence
+KW  - Information resources management
+KW  - Decision support systems
+KW  - Information storage & retrieval systems
+KW  - Expert systems (Computer science)
+KW  - Design Science Research
+KW  - Decision Support Systems
+KW  - Evaluation Methods
+ER  - 
+
+TY  - JOUR
+TI  - ENSEMBLE ARTIFACT DESIGN FOR CONTEXT SENSITIVE DECISION SUPPORT.
+AU  - Miah, Shah Jahan
+AU  - Gammack, John G.
+T2  - Australasian Journal of Information Systems
+AB  - Although an improvement of design knowledge is an essential goal of design research, current design research predominantly focuses on knowledge concerning the IT artifact (tool) design process, rather than a more holistic understanding encompassing the dynamic usage contexts of a technological artifact. Conceptualising a design in context as an "ensemble artifact" (Sein et al., 2011) provides the basis for a more rigorous treatment. This paper describes an IS artifact design framework that has been generated from the development of several practitioner-oriented decision support systems (DSS) in which contextual aspects relevant to practitioners' decision making are considered as integral design themes. We describe five key dimensions of an ensemble artifact design and show their value in designing practitioner-oriented DSS. The features are user centredness, knowledge sharing, situation-specific customisation, reduced model orientation, and practice based secondary design abilities. It is argued that this understanding can contribute to design research knowledge more effectively both to develop dynamic DSS, and by its extensibility to other artifact designs. [ABSTRACT FROM AUTHOR]
+DA  - 2014/07//
+PY  - 2014
+DP  - EBSCOhost
+VL  - 18
+IS  - 2
+SP  - 5
+EP  - 20
+J2  - Australasian Journal of Information Systems
+SN  - 14498618
+UR  - https://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=97298570&site=ehost-live
+DB  - bth
+N1  - <p>Accession Number: 97298570; Miah, Shah Jahan 1; Email Address: shah.miah@vu.edu.au; Gammack, John G. 2; Email Address: John.Gammack@zu.ac.ae; Affiliations: 1: Information Systems Discipline, College of Business, Footscray Park Campus, Victoria University, Melbourne, Australia; 2: College of Technological Innovation, Zayed University, Abu Dhabi, U.A.E; Issue Info: 2014, Vol. 18 Issue 2, p5; Thesaurus Term: Information technology; Thesaurus Term: Systems design; Thesaurus Term: Decision support systems; Thesaurus Term: Information sharing; Subject Term: User-centered system design; Author-Supplied Keyword: design; Author-Supplied Keyword: DSS; Author-Supplied Keyword: ensemble artifact; Author-Supplied Keyword: ensemble view; Author-Supplied Keyword: IS artifact; Author-Supplied Keyword: user-centredness; Number of Pages: 16p; Document Type: Article</p>
+KW  - Decision support systems
+KW  - User-centered system design
+KW  - Information technology
+KW  - Systems design
+KW  - Information sharing
+KW  - DSS
+KW  - design
+KW  - ensemble artifact
+KW  - ensemble view
+KW  - IS artifact
+KW  - user-centredness
+ER  - 
+
+TY  - JOUR
+TI  - A critical analysis of decision support systems research.
+AU  - Arnott, David
+AU  - Pervan, Graham
+T2  - Journal of Information Technology (Palgrave Macmillan)
+AB  - This paper critically analyses the nature and state of decision support systems (DSS) research. To provide context for the analysis, a history of DSS is presented which focuses on the evolution of a number of sub-groupings of research and practice: personal DSS, group support systems, negotiation support systems, intelligent DSS, knowledge management-based DSS, executive information systems/business intelligence, and data warehousing. To understand the state of DSS research an empirical investigation of published DSS research is presented. This investigation is based on the detailed analysis of 1,020 DSS articles published in 14 major journals from 1990 to 2003. The analysis found that DSS publication has been falling steadily since its peak in 1994 and the current publication rate is at early 1990s levels. Other findings include that personal DSS and group support systems dominate research activity and data warehousing is the least published type of DSS. The journal DSS is the major publishing outlet; US 'Other' journals dominate DSS publishing and there is very low exposure of DSS in European journals. Around two-thirds of DSS research is empirical, a much higher proportion than general IS research. DSS empirical research is overwhelming positivist, and is more dominated by positivism than IS research in general. Design science is a major DSS research category. The decision support focus of the sample shows a well-balanced mix of development, technology, process, and outcome studies. Almost half of DSS papers did not use judgement and decision-making reference research in the design and analysis of their projects and most cited reference works are relatively old. A major omission in DSS scholarship is the poor identification of the clients and users of the various DSS applications that are the focus of investigation. The analysis of the professional or practical contribution of DSS research shows a field that is facing a crisis of relevance. Using the history and empirical study as a foundation, a number of strategies for improving DSS research are suggested. [ABSTRACT FROM AUTHOR]
+DA  - 2005/06//
+PY  - 2005
+DP  - EBSCOhost
+VL  - 20
+IS  - 2
+SP  - 67
+EP  - 87
+J2  - Journal of Information Technology (Palgrave Macmillan)
+SN  - 02683962
+UR  - https://search.ebscohost.com/login.aspx?direct=true&db=a9h&AN=17832714&site=ehost-live
+DB  - a9h
+N1  - <p>Accession Number: 17832714; Arnott, David 1 Pervan, Graham 2; Email Address: pervang@cbs.curtin.edu.au; Affiliation:&nbsp;&nbsp;1: Monash University, Melbourne, Australia&nbsp;&nbsp;2: Curtin University of Technology, Perth, Australia; Source Info: Jun2005, Vol. 20 Issue 2, p67; Subject Term: DECISION support systems; Subject Term: MANAGEMENT information systems; Subject Term: BUSINESS intelligence; Subject Term: DATA warehousing; Subject Term: DECISION making; Author-Supplied Keyword: business intelligence; Author-Supplied Keyword: data warehousing; Author-Supplied Keyword: decision support systems; Author-Supplied Keyword: executive information systems; Author-Supplied Keyword: group support systems; Author-Supplied Keyword: research; NAICS/Industry Codes: 541611 Administrative Management and General Management Consulting Services; Number of Pages: 21p; Illustrations: 3 Diagrams, 18 Charts, 3 Graphs; Document Type: Article</p>
+KW  - decision support systems
+KW  - research
+KW  - DECISION making
+KW  - DECISION support systems
+KW  - business intelligence
+KW  - BUSINESS intelligence
+KW  - MANAGEMENT information systems
+KW  - group support systems
+KW  - data warehousing
+KW  - DATA warehousing
+KW  - executive information systems
+ER  - 
+
+TY  - JOUR
+TI  - Decision Support Systems to Detect Quality Deceptions in Supply Chain Quality Inspections: Design and Experimental Evaluation
+AU  - Yan, Jiaqi
+AU  - SUN, Sherry
+AU  - Wang, Huaiqing
+AU  - Shi, Yani
+AU  - Hu, Daning
+T2  - ICIS 2014 Proceedings
+DA  - 2014/12/15/
+PY  - 2014
+ST  - Decision Support Systems to Detect Quality Deceptions in Supply Chain Quality Inspections
+UR  - https://aisel.aisnet.org/icis2014/proceedings/ISDesign/2
+L2  - https://aisel.aisnet.org/icis2014/proceedings/ISDesign/2/
+ER  - 
+
+TY  - JOUR
+TI  - UNDERSTANDING THE ROLE OF DECISION SUPPORT SYSTEMS IN GREEN IS RESEARCH:  LITERATURE REVIEW AND RESEARCH AGENDA
+AU  - Klör, Benjamin
+T2  - PACIS 2016 Proceedings
+DA  - 2016/06/27/
+PY  - 2016
+ST  - UNDERSTANDING THE ROLE OF DECISION SUPPORT SYSTEMS IN GREEN IS RESEARCH
+UR  - https://aisel.aisnet.org/pacis2016/378
+L2  - https://aisel.aisnet.org/pacis2016/378/
+ER  - 
+
+TY  - JOUR
+TI  - HOW TO SELECT MEASURES FOR DECISION SUPPORT SYSTEMS – AN OPTIMIZATION APPROACH INTEGRATING INFORMATIONAL AND ECONOMIC OBJECTIVES
+AU  - Röglinger, Maximilian
+T2  - ECIS 2009 Proceedings
+DA  - 2009/01/01/
+PY  - 2009
+UR  - https://aisel.aisnet.org/ecis2009/318
+L2  - https://aisel.aisnet.org/ecis2009/318/
+ER  - 
+
+TY  - JOUR
+TI  - A NEW CONCEPTUALISATION OF DESIGN SCIENCE RESEARCH FOR DSS DEVELOPMENT RESEARCH
+AU  - Miah, Shah Jahan
+AU  - McKay, Judy
+T2  - PACIS 2016 Proceedings
+DA  - 2016/06/27/
+PY  - 2016
+UR  - https://aisel.aisnet.org/pacis2016/384
+L2  - https://aisel.aisnet.org/pacis2016/384/
+ER  - 
+
+TY  - JOUR
+TI  - An Intelligent Decision Support System for the Empty Unit Load Device Repositioning Problem in Air Cargo Industry
+AU  - Döppner, Daniel A.
+AU  - Derckx, Patrick
+AU  - Schoder, Detlef
+T2  - Hawaii International Conference on System Sciences 2018 (HICSS-51)
+DA  - 2018/01/03/
+PY  - 2018
+UR  - https://aisel.aisnet.org/hicss-51/da/decision_support_for_scm/4
+L2  - https://aisel.aisnet.org/hicss-51/da/decision_support_for_scm/4/
+ER  - 
+
+TY  - JOUR
+TI  - Will They Die Another Day? A Decision Support Perspective on Reusing Electric Vehicle Batteries
+AU  - Beverungen, Daniel
+AU  - Klör, Benjamin
+AU  - Bräuer, Sebastian
+AU  - Monhof, Markus
+T2  - ECIS 2015 Research-in-Progress Papers
+DA  - 2015/05/29/
+PY  - 2015
+ST  - Will They Die Another Day?
+UR  - https://aisel.aisnet.org/ecis2015_rip/36
+L2  - https://aisel.aisnet.org/ecis2015_rip/36/
+ER  - 
+
+TY  - JOUR
+TI  - A Formal Model for Investment Strategies to Enable Automated Stock Portfolio Management
+AU  - Gottschlich, Joerg
+AU  - Forst, Nikolas
+AU  - Hinz, Oliver
+T2  - ICIS 2014 Proceedings
+DA  - 2014/12/15/
+PY  - 2014
+UR  - https://aisel.aisnet.org/icis2014/proceedings/GeneralIS/19
+L2  - https://aisel.aisnet.org/icis2014/proceedings/GeneralIS/19/
+ER  - 
+
+TY  - JOUR
+TI  - Research 2.0: Improving participation in online research communities
+AU  - Röglinger, Maximilian
+T2  - ECIS 2009 Proceedings
+DA  - 2009/01/01/
+PY  - 2009
+ST  - Research 2.0
+UR  - https://aisel.aisnet.org/ecis2009/217
+L2  - https://aisel.aisnet.org/ecis2009/217/
+ER  - 
+
+TY  - JOUR
+TI  - A Decision Support System for the Optimization of Electric Car Sharing Stations
+AU  - Sonneberg, Marc
+AU  - Kuehne, Kathrin
+AU  - Breitner, Michael
+T2  - ICIS 2015 Proceedings
+DA  - 2015/12/13/
+PY  - 2015
+UR  - https://aisel.aisnet.org/icis2015/proceedings/DecisionAnalytics/7
+L2  - https://aisel.aisnet.org/icis2015/proceedings/DecisionAnalytics/7/
+ER  - 
+
+TY  - JOUR
+TI  - Financial Decision Support System for Wind Energy –  Analysis of Mexican Projects and a Support Scheme Concept
+AU  - Koukal, André
+AU  - Piel, Jan-Hendrik
+T2  - Hawaii International Conference on System Sciences 2017 (HICSS-50)
+DA  - 2017/01/04/
+PY  - 2017
+UR  - https://aisel.aisnet.org/hicss-50/da/grand_challenges/2
+L2  - https://aisel.aisnet.org/hicss-50/da/grand_challenges/2/
+ER  - 
+
+TY  - JOUR
+TI  - Development of knowledge management support for the sleep disorder diagnosis proces
+AU  - Blake, Jacqueline
+AU  - Kerr, Don
+AU  - Gururajan, Raj
+T2  - ACIS 2010 Proceedings
+DA  - 2010/01/01/
+PY  - 2010
+UR  - https://aisel.aisnet.org/acis2010/98
+L2  - https://aisel.aisnet.org/acis2010/98/
+ER  - 
+
+TY  - JOUR
+TI  - A Decision Support System for Computation of Carsharing Pricing Areas and its Influence on Vehicle Distribution
+AU  - Brendel, Alfred Benedikt
+AU  - Brennecke, Julian
+AU  - Zapadka, Patryk
+AU  - Kolbe, Lutz
+T2  - ICIS 2017 Proceedings
+DA  - 2017/12/10/
+PY  - 2017
+UR  - https://aisel.aisnet.org/icis2017/ServiceScience/Presentations/2
+L2  - https://aisel.aisnet.org/icis2017/ServiceScience/Presentations/2/
+ER  - 
+
+TY  - JOUR
+TI  - Cross-Organizational Software Development: Design and Evaluation of a Decision Support System for Software Component Outsourcing
+AU  - Kramer, Tommi
+AU  - Heinzl, Armin
+AU  - Neben, Tillmann
+T2  - Hawaii International Conference on System Sciences 2017 (HICSS-50)
+DA  - 2017/01/04/
+PY  - 2017
+ST  - Cross-Organizational Software Development
+UR  - https://aisel.aisnet.org/hicss-50/cl/cross-org_and_cross-border_collaboration/3
+L2  - https://aisel.aisnet.org/hicss-50/cl/cross-org_and_cross-border_collaboration/3/
+ER  - 
+
+TY  - JOUR
+TI  - Research 2.0: Improving participation in online research communities
+AU  - FERNELEY, ELAINE
+AU  - HEINZE, ALEKSEJ
+AU  - CHILD, PAUL
+T2  - ECIS 2009 Proceedings
+DA  - 2009/01/01/
+PY  - 2009
+ST  - Research 2.0
+UR  - https://aisel.aisnet.org/ecis2009/456
+L2  - https://aisel.aisnet.org/ecis2009/456/
+ER  - 
+
+TY  - JOUR
+TI  - A Practitioner-Oriented Decision Support Process for Forestry Pest Management
+AU  - Miah, Shah
+AU  - Debuse, Justin
+AU  - Kerr, Don
+AU  - Debuse, Valerie
+T2  - ACIS 2010 Proceedings
+DA  - 2010/01/01/
+PY  - 2010
+UR  - https://aisel.aisnet.org/acis2010/57
+L2  - https://aisel.aisnet.org/acis2010/57/
+ER  - 
+
+TY  - JOUR
+TI  - Design of a New Data Structure to Support Non-Invasive Diagnostic on Heritage Metals
+AU  - Rosselet, Antoine
+AU  - Rochat, Vincent
+AU  - Gaspoz, Cédric
+T2  - MCIS 2015 Proceedings
+DA  - 2015/01/01/
+PY  - 2015
+UR  - https://aisel.aisnet.org/mcis2015/34
+L2  - https://aisel.aisnet.org/mcis2015/34/
+ER  - 
+
+TY  - JOUR
+TI  - Examining Question-Answering Technology from the Task Technology Fit Perspective
+AU  - Robles-Flores, José
+AU  - Roussinov, Dmitri
+T2  - Communications of the Association for Information Systems
+DA  - 2012/06/01/
+PY  - 2012
+DO  - 10.17705/1CAIS.03026
+VL  - 30
+IS  - 1
+SN  - 1529-3181
+UR  - https://aisel.aisnet.org/cais/vol30/iss1/26
+L1  - https://aisel.aisnet.org/cgi/viewcontent.cgi?article=3668&context=cais
+L2  - https://aisel.aisnet.org/cais/vol30/iss1/26/
+ER  - 
+
+TY  - JOUR
+TI  - An Innovation and Risk Dashboard
+AU  - Joubert, Janine
+AU  - Belle, Jean-Paul Van
+T2  - MCIS 2016 Proceedings
+DA  - 2016/01/01/
+PY  - 2016
+UR  - https://aisel.aisnet.org/mcis2016/14
+L2  - https://aisel.aisnet.org/mcis2016/14/
+ER  - 
+
+TY  - JOUR
+TI  - Bringing Analytics into Practice: Evidence from the Power Sector
+AU  - Gust, Gunther
+AU  - Flath, Christoph
+AU  - Brandt, Tobias
+AU  - Ströhle, Philipp
+AU  - Neumann, Dirk
+T2  - ICIS 2016 Proceedings
+DA  - 2016/12/11/
+PY  - 2016
+ST  - Bringing Analytics into Practice
+UR  - https://aisel.aisnet.org/icis2016/Practice-OrientedResearch/Presentations/8
+L2  - https://aisel.aisnet.org/icis2016/Practice-OrientedResearch/Presentations/8/
+ER  - 
+
+TY  - JOUR
+TI  - Decision Support for the Selection of Appropriate Customer Integration Methods
+AU  - Füller, Kathrin
+AU  - Ramanath, Ranjitha
+AU  - Böhm, Markus
+AU  - Krcmar, Helmut
+T2  - Wirtschaftsinformatik Proceedings 2015
+DA  - 2015/03/05/
+PY  - 2015
+UR  - https://aisel.aisnet.org/wi2015/91
+L2  - https://aisel.aisnet.org/wi2015/91/
+ER  - 
+
+TY  - JOUR
+TI  - Towards the Development of a DSS Supporting the Integration of Crowdsourcing in Theory Testing: Analytical Framework Design
+AU  - Enwereuzo, Ijeoma
+AU  - Antunes, Pedro
+AU  - Johnstone, David
+T2  - AMCIS 2019 Proceedings
+DA  - 2019/07/05/
+PY  - 2019
+ST  - Towards the Development of a DSS Supporting the Integration of Crowdsourcing in Theory Testing
+UR  - https://aisel.aisnet.org/amcis2019/systems_analysis_design/systems_analysis_design/5
+L2  - https://aisel.aisnet.org/amcis2019/systems_analysis_design/systems_analysis_design/5/
+ER  - 
+
+TY  - JOUR
+TI  - Evaluating an Emergency Management Decision Support System with Practitioner-Driven Scenarios: Action Design Research
+AU  - Neville, Karen
+AU  - O'Riordan, Sheila
+AU  - Pope, Andrew
+AU  - Lionaird, MÃ-cheÃ¡l O'
+T2  - ICIS 2018 Proceedings
+DA  - 2018/12/13/
+PY  - 2018
+ST  - Evaluating an Emergency Management Decision Support System with Practitioner-Driven Scenarios
+UR  - https://aisel.aisnet.org/icis2018/practice/Presentations/7
+L2  - https://aisel.aisnet.org/icis2018/practice/Presentations/7/
+ER  - 
+
